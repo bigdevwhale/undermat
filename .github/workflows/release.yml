@@ -60,13 +60,13 @@ jobs:
       - name: Release notes from CHANGELOG.md
         run: |
           awk -v v="${{ steps.v.outputs.name }}" 'index($0, "## [" v "]") == 1 {f=1; next} index($0, "## [") == 1 {f=0} f' CHANGELOG.md > dist/notes.md
-          [ -s dist/notes.md ] || echo "UnderTheMat ${{ steps.v.outputs.name }}" > dist/notes.md
+          [ -s dist/notes.md ] || echo "Under the Mat ${{ steps.v.outputs.name }}" > dist/notes.md
           cat dist/notes.md
 
       - name: Publish GitHub release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ steps.v.outputs.name }}
-          name: UnderTheMat v${{ steps.v.outputs.name }}
+          name: Under the Mat v${{ steps.v.outputs.name }}
           body_path: dist/notes.md
           files: dist/*.apk

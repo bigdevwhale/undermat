@@ -1,0 +1,396 @@
+{
+  "id": "seoul",
+  "stamp": "SEOUL",
+  "lang": "ko-KR",
+  "city": {"ru": "Сеул", "en": "Seoul"},
+  "country": {"ru": "Южная Корея", "en": "South Korea"},
+  "address": {"ru": "Мангвон-дон, комнатка на крыше", "en": "Mangwon-dong, a rooftop room"},
+  "host": {"ru": "Хан Джи Хо", "en": "Han Ji-ho"},
+  "sign": {"ru": "— Джи Хо", "en": "— Ji-ho"},
+  "about": {
+    "ru": "26 лет, младший веб-дизайнер. Снимает крошечную комнату на крыше в сеульском Мангвон-доне, играет на басу в любительской группе, питается в круглосуточном магазине и клеит стикеры на всё подряд.",
+    "en": "26, a junior web designer. Rents a tiny rooftop room in Seoul's Mangwon-dong, plays bass in an amateur band, lives on convenience-store food and puts sticky notes on everything."
+  },
+  "listing": {
+    "ru": "Сдаю на неделю комнату на крыше. Маленькая, зато вся крыша твоя. Бас не трогать. Круглосуточный — внизу.",
+    "en": "Rooftop room for a week. Small, but the whole roof is yours. Don't touch the bass. The 24-hour store is right downstairs."
+  },
+  "away": {
+    "ru": "Ключа нет: код от двери на стикере ниже. Я у бабушки в Хэнаме, солим капусту на кимчи, до воскресенья. Записки везде. Правда везде.",
+    "en": "There's no key: the door code is on the sticky note below. I'm at my grandma's in Haenam making winter kimchi till Sunday. Notes everywhere. I mean everywhere."
+  },
+  "doorplate": "옥탑방 · 한지호",
+  "mat": "EOSEO OSEYO",
+  "word": {
+    "word": "jeong · 정",
+    "text": {
+      "ru": "Тёплая привязанность, которая копится сама собой: от общих обедов, мелкой помощи, даже от ссор. К соседке, к старой забегаловке, к человеку, с которым когда-то делил зонт. Не любовь и не дружба, а то, от чего потом трудно уйти. Про это говорят: «чон пристал».",
+      "en": "A warm attachment that builds up on its own: from shared meals, small favours, even from quarrels. To a neighbour, an old diner, someone you once shared an umbrella with. Not love, not friendship — the thing that makes it hard to walk away."
+    }
+  },
+  "toast": {
+    "say": "건배! · Geonbae!",
+    "text": {
+      "ru": "«Конбэ!» — дословно «сухой бокал», то есть «до дна». Но с друзьями обычно просто чокаются и кричат «Ччан!» — так у нас звенят стаканы. И помни: старшему наливают двумя руками.",
+      "en": "'Geonbae!' literally means 'dry glass' — bottoms up. With friends we usually just clink and shout 'Jjan!', the sound glasses make in Korean. And remember: pour for an elder with both hands."
+    }
+  },
+  "hours": [
+    {"h": 0, "ru": "Круглосуточный внизу светится, у компьютерного клуба курят студенты, мимо проносятся мотоциклы доставки.", "en": "The 24-hour store downstairs glows, students smoke outside the PC bang, delivery scooters zip past."},
+    {"h": 6, "ru": "Метро уже ходит. Бабушки в ярких походных куртках быстрым шагом идут вдоль Хангана.", "en": "The subway is running. Grandmas in bright hiking jackets power-walk along the Han River."},
+    {"h": 8, "ru": "Час пик: в вагоны шестой линии набиваются под завязку, у кофеен очередь за холодным американо — даже в мороз.", "en": "Rush hour: Line 6 is packed to the doors, and there's a queue for iced americano at every café — even when it's freezing."},
+    {"h": 12, "ru": "Ровно в полдень офисы высыпают на обед, у всех бейджи на шнурках. В час так же дружно идут обратно.", "en": "At noon sharp the offices pour out for lunch, lanyards and all. At one they march back just as neatly."},
+    {"h": 15, "ru": "На рынке Мангвон затишье, торговки чистят чеснок. В кафе сидят фрилансеры с ноутбуками.", "en": "Mangwon Market is quiet, the stall ladies peel garlic. Freelancers sit in cafés behind laptops."},
+    {"h": 19, "ru": "Рынок снова гудит: после работы все берут пирожки и закуски на ужин. Над Ханганом закат.", "en": "The market's buzzing again: people grab croquettes and side dishes for dinner after work. Sunset over the Han."},
+    {"h": 22, "ru": "Школьники выходят с вечерних курсов — да, в десять вечера. У входа ждут родители в машинах.", "en": "Kids come out of their evening cram schools — yes, at ten at night. Parents wait outside in cars."}
+  ],
+  "holidays": [
+    {"m": 1, "d": 1, "name": {"ru": "Новый год", "en": "New Year's Day"},
+     "text": {"ru": "В полночь в центре Сеула тридцать три раза бьют в колокол Посингак, а утром многие едут на восточное побережье встречать первый рассвет. Главный же Новый год у нас по лунному календарю.", "en": "At midnight the Bosingak bell in central Seoul is struck thirty-three times, and in the morning lots of people drive to the east coast for the first sunrise. Our big New Year is the lunar one, though."}},
+    {"m": 2, "d": 14, "name": {"ru": "День святого Валентина", "en": "Valentine's Day"},
+     "text": {"ru": "У нас в этот день шоколад дарят девушки парням, а ответ ждут через месяц. Я в этом году получил одну плитку — от мамы.", "en": "Here girls give chocolate to boys, and the answer comes a month later. This year I got one bar — from my mum."}},
+    {"m": 3, "d": 14, "name": {"ru": "Белый день", "en": "White Day"},
+     "text": {"ru": "Ответный праздник: парни дарят девушкам конфеты. Все магазины заставлены корзинками с леденцами в бантиках.", "en": "The return match: boys give girls sweets. Every shop is stacked with baskets of lollipops tied with bows."}},
+    {"m": 4, "d": 14, "name": {"ru": "Чёрный день", "en": "Black Day"},
+     "text": {"ru": "Для тех, кому ничего не досталось ни в феврале, ни в марте: одиночки едят чачжанмён — лапшу в чёрном соусе из бобов. Честно, мой любимый из трёх.", "en": "For those who got nothing in February or March: singles eat jjajangmyeon, noodles in black bean sauce. Honestly, my favourite of the three."}},
+    {"m": 5, "d": 5, "name": {"ru": "День детей", "en": "Children's Day"},
+     "text": {"ru": "Выходной. Зоопарки и парки развлечений забиты, родители покупают детям всё, что те попросят. Ну, почти всё.", "en": "A day off. Zoos and amusement parks are packed, and parents buy the kids whatever they ask for. Well, almost."}},
+    {"m": 5, "d": 8, "name": {"ru": "День родителей", "en": "Parents' Day"},
+     "text": {"ru": "Родителям прикалывают на грудь красные гвоздики. Я каждый год покупаю гвоздику маме, а потом ещё одну папе — иначе он обижается.", "en": "Parents get red carnations pinned to their chests. Every year I buy one for Mum, then a second for Dad — otherwise he sulks."}},
+    {"m": 5, "d": 15, "name": {"ru": "День учителя", "en": "Teachers' Day"},
+     "text": {"ru": "Учителям дарят гвоздики и пишут письма. Я до сих пор пишу своему учителю рисования — это он сказал, что из меня выйдет дизайнер.", "en": "Teachers get carnations and letters. I still write to my art teacher — he's the one who said I'd make a designer."}},
+    {"m": 10, "d": 9, "name": {"ru": "День хангыля", "en": "Hangul Day"},
+     "text": {"ru": "Праздник корейского алфавита, выходной. Отличный повод выучить пару букв — основных всего двадцать четыре.", "en": "A day off for the Korean alphabet. A good excuse to learn a few letters — there are only twenty-four basic ones."}},
+    {"m": 11, "d": 11, "name": {"ru": "День пепперо", "en": "Pepero Day"},
+     "text": {"ru": "Шоколадные палочки похожи на единички — 11.11. Их дарят друзьям и влюблённым, а круглосуточные строят из коробок целые башни.", "en": "The chocolate sticks look like ones — 11/11. You give them to friends and sweethearts, and convenience stores build whole towers of boxes."}},
+    {"m": 12, "d": 25, "name": {"ru": "Рождество", "en": "Christmas"},
+     "text": {"ru": "Выходной, но у нас это скорее праздник для пар: свидания, торты, очереди в рестораны. Наша группа обычно играет концерт для таких же одиноких.", "en": "A day off, but here it's mostly a couples' holiday: dates, cakes, restaurant queues. My band usually plays a gig for the rest of us singles."}}
+  ],
+  "neighbours": [
+    {"who": {"ru": "Госпожа Пак, хозяйка дома, 3-й этаж", "en": "Mrs Park, the landlady, third floor"},
+     "gift": {"ru": "Рисовый пирог с красной фасолью", "en": "Rice cake with red beans"},
+     "note": {"ru": "Ты гость Джи Хо? Ешь, ешь. Этот мальчик въехал два года назад и не принёс мне ни кусочка пирога, представляешь? Зато чинит мне интернет. И поёт по ночам, громко. Скажи ему, что перец на крыше поливаю я. Нет, лучше не говори.", "en": "You're Ji-ho's guest? Eat, eat. That boy moved in two years ago and never brought me a single slice of cake, can you imagine? He does fix my internet, though. And sings at night, loudly. Tell him I'm the one watering his peppers. No — don't tell him."},
+     "how": {"ru": "При переезде соседей по традиции угощают сируттоком — рисовым пирогом с красной фасолью. Считается, что красный цвет отгоняет беду от нового дома.", "en": "When you move in, custom says you treat the neighbours to sirutteok, steamed rice cake with red beans. Red is believed to keep misfortune away from a new home."},
+     "sticker": "Sirutteok"},
+    {"who": {"ru": "Мин Су, барабанщик, через два дома", "en": "Min-su, the drummer, two houses down"},
+     "gift": {"ru": "Жареная курица и пиво", "en": "Fried chicken and beer"},
+     "note": {"ru": "Джи Хо сказал, что ты тут один и наверняка сидишь на рамёне. Я заказал курицу: половина острая, половина нет — у нас так и берут. Пиво холодное. Если он скажет, что играет лучше меня, не верь. Без барабанов группы нет.", "en": "Ji-ho said you're alone up here and probably living on ramyeon. I ordered chicken — half spicy, half plain, that's how everyone orders. The beer's cold. If he tells you he plays better than me, don't believe him. No drums, no band."},
+     "how": {"ru": "Чимэк — «чи» от «чикен», «мэк» от «мэкчу», пива. Курицу с пивом заказывают вечером и на футбол, и привезут её куда угодно, хоть на берег Хангана.", "en": "Chimaek: 'chi' from chicken, 'maek' from maekju, beer. People order it in the evening and for football, and it gets delivered anywhere — even to the banks of the Han."},
+     "sticker": "Chimaek"},
+    {"who": {"ru": "Тётушка Ким из соседнего дома", "en": "Auntie Kim from next door"},
+     "gift": {"ru": "Контейнер с закусками", "en": "A box of side dishes"},
+     "note": {"ru": "Тут закуски: кимчи из редьки, шпинат, тушёная картошка. Я Джи Хо всегда передаю, а то он одним рамёном живёт. Худющий! Контейнер, кстати, его — в прошлый раз он вернул мне его полным. Теперь твоя очередь.", "en": "Side dishes: radish kimchi, spinach, braised potatoes. I always send some to Ji-ho, or he'd live on ramyeon alone. So skinny! The box is actually his — last time he gave it back to me full. Now it's your turn."},
+     "how": {"ru": "Посуду соседу пустой не возвращают: положи туда что-нибудь своё — фрукты, печенье, хоть пару мандаринов. Вернуть пустой контейнер почти обидно.", "en": "You never return a neighbour's dish empty: put something of your own in it — fruit, biscuits, even a couple of tangerines. An empty box is almost an insult."},
+     "sticker": "Banchan"}
+  ],
+  "days": [
+    {
+      "kitchen": {
+        "title": {"ru": "Кимчи-чиге", "en": "Kimchi stew"},
+        "orig": "Kimchi-jjigae · 김치찌개",
+        "note": {"ru": "Главное правило: кимчи должно быть старое, кислое, чтобы глаза щипало. Со свежим чиге не выйдет. В холодильнике банка с жёлтой бумажкой — бери оттуда. Свинину обжарь прямо с кимчи, залей водой, сверху тофу. Двадцать минут — и ужин готов. Ешь с рисом прямо из кастрюльки, никто не видит.", "en": "Rule one: the kimchi must be old and sour enough to sting your eyes. Fresh kimchi won't do. There's a jar with a yellow note in the fridge — use that. Fry the pork right with the kimchi, add water, tofu on top. Twenty minutes and dinner's ready. Eat it with rice straight from the pot, nobody's watching."},
+        "ingr": {"ru": ["старое кимчи — 2 стакана", "свиная грудинка — 200 г", "тофу — полблока", "сок от кимчи — 3 ст. л.", "кочхуджан — 1 ч. л.", "чеснок, зелёный лук"],
+                 "en": ["2 cups old kimchi", "200 g pork belly", "half a block of tofu", "3 tbsp kimchi juice", "1 tsp gochujang", "garlic, spring onion"]},
+        "swaps": {"ru": [["кислое кимчи", "свежее кимчи и ложка рисового уксуса"], ["свиная грудинка", "свиная шея или консервированная ветчина"]],
+                  "en": [["sour kimchi", "fresh kimchi plus a spoon of rice vinegar"], ["pork belly", "pork neck or canned ham"]]},
+        "sticker": "Kimchi jjigae"
+      },
+      "tv": {
+        "title": {"ru": "Пингвинёнок Пороро", "en": "Pororo the Little Penguin"},
+        "orig": "Pporong Pporong Ppororo · 뽀롱뽀롱 뽀로로",
+        "by": {"ru": "мультсериал, канал EBS", "en": "animated series, EBS"},
+        "year": "2003",
+        "note": {"ru": "Мне было три, когда он начался, так что Пороро меня, можно сказать, вырастил. Пингвинёнок в лётном шлеме, который очень хочет летать, и его друзья в снежном лесу. Если в кафе раскричался малыш, родители включают ему Пороро — и наступает тишина. Посмотри пару серий, потом весь день будешь напевать песенку. Я предупредил.", "en": "I was three when it started, so Pororo basically raised me. A little penguin in a flying helmet who badly wants to fly, and his friends in a snowy forest. When a toddler starts screaming in a café, the parents put on Pororo and silence falls. Watch a couple of episodes — you'll be humming the song all day. You've been warned."},
+        "why": {"ru": "Малыши слушаются его лучше, чем родителей, поэтому Пороро в шутку прозвали «Ппотхоннёном» — «президентом Пороро».", "en": "Toddlers obey him better than their parents, so he's jokingly called 'Ppo-tongryeong' — President Pororo."},
+        "query": "Pororo the Little Penguin",
+        "sticker": "Pororo"
+      },
+      "record": {
+        "title": {"ru": "Дешёвый кофе", "en": "Cheap Coffee"},
+        "orig": "Ssaguryeo Keopi · 싸구려 커피",
+        "by": {"ru": "Чан Ги Ха и The Faces", "en": "Jang Kiha and the Faces"},
+        "year": "2008",
+        "kind": "song",
+        "note": {"ru": "Песня про парня, который пьёт дешёвый кофе в сырой комнатушке, а пятки липнут к линолеуму. Чан Ги Ха её почти не поёт, а проговаривает — монотонно, будто ворчит себе под нос. Её записали на маленьком инди-лейбле, а узнала вся страна. Это гимн всех, кто снимает каморку, и мой тоже. Наша группа играет её на бис.", "en": "A song about a guy drinking cheap coffee in a damp little room, his feet sticking to the vinyl floor. Jang Kiha barely sings it — he talks it, flat, like grumbling to himself. It came out on a tiny indie label and the whole country learned it. It's the anthem of everyone renting a cubbyhole, me included. My band plays it as an encore."},
+        "query": "장기하와 얼굴들 싸구려 커피",
+        "sticker": "Jang Kiha"
+      },
+      "books": {
+        "title": {"ru": "Ливень", "en": "The Shower"},
+        "orig": "Sonagi · 소나기",
+        "by": {"ru": "Хван Сун Вон, рассказ", "en": "Hwang Sun-won, short story"},
+        "year": "",
+        "note": {"ru": "Рассказ на десяток страниц, его все проходят в средней школе. Деревенский мальчишка, девочка из Сеула, ручей, камешки и внезапный летний ливень. Больше ничего не скажу. Учительница читала вслух, и полкласса шмыгало носом. Я тоже, но врал, что у меня насморк. Почитай на берегу Хангана, там тихо.", "en": "A story of about ten pages that everyone reads in middle school. A village boy, a girl from Seoul, a stream, pebbles and a sudden summer downpour. That's all I'll say. Our teacher read it aloud and half the class was sniffling. Me too, though I claimed it was a cold. Read it by the Han River, it's quiet there."},
+        "sticker": "Sonagi"
+      },
+      "fact": {"ru": "Ключ под ковриком — это я для красоты. В Корее почти на всех дверях кодовые замки: набрал цифры — и ты дома. Ключи у нас почти никто не носит, а вот код меняют, когда съезжает жилец.", "en": "The key under the mat is just for show. Almost every door in Korea has a keypad lock: punch in the numbers and you're home. Hardly anyone carries keys — people just change the code when a tenant moves out."},
+      "phrase": {"say": "밥 먹었어?", "latin": "Bap meogeosseo?", "text": {"ru": "Дословно — «Ты поел?», а на деле — «Привет, как ты?». Подробно рассказывать меню не нужно, хватит «угу». Бабушка говорит это вместо «алло».", "en": "Literally 'Have you eaten?', really 'Hi, how are you?'. No need to list the menu, a 'yep' will do. My grandma says it instead of 'hello' on the phone."}},
+      "rule": {"ru": "Обувь снимай у порога, даже если забежал на секунду. Пол у нас почти мебель: на нём сидят, едят и спят. Зимой он ещё и тёплый.", "en": "Shoes off at the door, even if you're popping in for a second. The floor is practically furniture here: we sit, eat and sleep on it. In winter it's heated too."},
+      "letter": {"ru": "Привет! Я Джи Хо, а это моя комнатка на крыше — у нас такие называют «октхапбан». Да, она крошечная. Зато крыша вся твоя: стул, гирлянда и вид на огни Мангвона. Я на неделю уехал к бабушке в Хэнам — там кимджан, вся родня солит капусту на зиму. Записки на стикерах везде, даже на чайнике. В холодильнике пусто, прости. Рынок Мангвон в пяти минутах вниз по улице.", "en": "Hi! I'm Ji-ho, and this is my rooftop room — we call these oktapbang. Yes, it's tiny. But the whole roof is yours: a chair, fairy lights and the lights of Mangwon. I've gone to my grandma's in Haenam for a week — it's gimjang time, the whole family salting cabbage for winter. Sticky notes everywhere, even on the kettle. The fridge is empty, sorry. Mangwon Market is five minutes down the street."}
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Ттокпокки", "en": "Tteokbokki"},
+        "orig": "Tteokbokki · 떡볶이",
+        "note": {"ru": "Рисовые палочки в остро-сладком соусе. На улице их едят стоя у ларька, из пластиковой тарелки, на которую натянут пакет, чтобы не мыть. Дома тоже просто: соус, палочки, рыбные пластинки, яйцо. Мамин секрет — сахара на ложку больше, чем кажется нужным. Остро? Значит, всё правильно.", "en": "Rice cakes in a sweet-and-fiery sauce. On the street you eat them standing at a stall, from a plastic plate with a bag stretched over it so nobody has to wash up. At home it's just as easy: sauce, rice cakes, fish cakes, an egg. Mum's secret is a spoon more sugar than seems right. Too hot? Then you've done it right."},
+        "ingr": {"ru": ["рисовые палочки (ттоки) — 300 г", "рыбные пластинки (омук) — 2 шт.", "кочхуджан — 2 ст. л.", "корейский молотый перец — 1 ст. л.", "сахар — 1,5 ст. л.", "вода — 400 мл", "варёное яйцо, зелёный лук"],
+                 "en": ["300 g rice cakes (tteok)", "2 sheets fish cake (eomuk)", "2 tbsp gochujang", "1 tbsp Korean chilli flakes", "1.5 tbsp sugar", "400 ml water", "a boiled egg, spring onion"]},
+        "swaps": {"ru": [["свежие ттоки", "замороженные из азиатского магазина"], ["омук", "крабовые палочки"]],
+                  "en": [["fresh tteok", "frozen ones from an Asian shop"], ["eomuk", "crab sticks"]]},
+        "sticker": "Tteokbokki"
+      },
+      "tv": {
+        "title": {"ru": "Динозаврик Дули", "en": "Dooly the Little Dinosaur"},
+        "orig": "Agi Gongnyong Dulli · 아기공룡 둘리",
+        "by": {"ru": "мультсериал по комиксу Ким Су Джона, KBS", "en": "animated series from Kim Soo-jung's comic, KBS"},
+        "year": "1987",
+        "note": {"ru": "Это мне включали родители — они сами его обожали. Динозаврик оттаял из ледника, приплыл в Сеул и поселился у Ко Гиль Дона, усатого ворчуна. Следом к нему въезжает целая компания нахлебников. В детстве я хохотал над Ко Гиль Доном. Теперь, когда сам плачу за свет и газ, мне его ужасно жалко.", "en": "My parents put this on for me — they loved it themselves. A baby dinosaur thaws out of a glacier, floats down to Seoul and moves in with Go Gil-dong, a grumpy man with a moustache. A whole gang of freeloaders follows. As a kid I laughed at Go Gil-dong. Now that I pay my own bills, I feel terribly sorry for him."},
+        "why": {"ru": "Есть присказка: если тебе стало жалко Ко Гиль Дона, значит, ты повзрослел. Её знают все, кому за двадцать.", "en": "There's a saying: once you start feeling sorry for Go Gil-dong, you've grown up. Everyone over twenty knows it."},
+        "query": "아기공룡 둘리",
+        "sticker": "Dooly"
+      },
+      "record": {
+        "title": {"ru": "Я знаю", "en": "I Know"},
+        "orig": "Nan Arayo · 난 알아요",
+        "by": {"ru": "Со Тхэ Джи и Boys", "en": "Seo Taiji and Boys"},
+        "year": "1992",
+        "kind": "song",
+        "note": {"ru": "Папина песня. В 1992-м трое парней вышли на телевизионный смотр талантов с рэпом и танцами, жюри поставило им низкие баллы — а вскоре их пела вся страна. Папа говорит, с них и начался весь нынешний к-поп. Он до сих пор показывает их танец на семейных праздниках. Мама закрывает лицо руками.", "en": "Dad's song. In 1992 three guys did rap and dance on a TV talent showcase, the judges gave them low marks — and soon the whole country was singing it. Dad says all of today's K-pop started with them. He still does their dance at family parties. Mum hides her face in her hands."},
+        "query": "서태지와 아이들 난 알아요",
+        "sticker": "Seo Taiji"
+      },
+      "books": {
+        "title": {"ru": "Курица, которая мечтала летать", "en": "The Hen Who Dreamed She Could Fly"},
+        "orig": "Madang-eul Naon Amtak · 마당을 나온 암탉",
+        "by": {"ru": "Хван Сон Ми", "en": "Hwang Sun-mi"},
+        "year": "2000",
+        "note": {"ru": "Курица-несушка сбегает с птичьего двора, высиживает чужое яйцо — а из него вылупляется утёнок. Мама читала мне её на ночь, а в 2011-м по книге сняли мультфильм, и мы ходили в кино всей семьёй. Курицу зовут Ипсак, «листик». Имя она выбрала себе сама — вот это мне нравится больше всего.", "en": "A laying hen escapes the farmyard and hatches an egg that isn't hers — out comes a duckling. Mum read it to me at bedtime, and in 2011 they made it into an animated film and we all went to see it. The hen is called Ipssak, 'Leafie'. She picked the name herself — that's my favourite part."},
+        "sticker": "Leafie"
+      },
+      "fact": {"ru": "В лифтах часто нет кнопки «4» — вместо неё буква «F». Четыре по-корейски «са», и так же звучит иероглиф «смерть». В больницах четвёртого этажа порой нет вовсе.", "en": "Lifts often have no '4' button — there's an 'F' instead. Four in Korean is 'sa', which sounds like the Chinese character for 'death'. Some hospitals skip the fourth floor altogether."},
+      "phrase": {"say": "수고하세요", "latin": "Sugohaseyo", "text": {"ru": "Дословно — «трудитесь». Так прощаются, уходя из магазина или выходя из такси: спасибо, не перетрудитесь там. Продавцу в нашем круглосуточном говори обязательно, он мне почти родной.", "en": "Literally 'keep up the hard work'. You say it leaving a shop or getting out of a taxi: thanks, don't overdo it. Always say it to the guy at our 24-hour store, he's practically family."}},
+      "rule": {"ru": "Ночью не свисти. Бабушка говорит, на свист приползают змеи. На крыше змей нет, но есть хозяйка снизу, и она тоже придёт.", "en": "Don't whistle at night. Grandma says it calls the snakes. There are no snakes on the roof, but there is the landlady downstairs, and she'll come too."},
+      "letter": {"ru": "Немножко про нас. Папа водит такси в Кванджу и болеет за «Киа Тайгерс» так, что кричит на телевизор. Мама учит детей играть на пианино и до сих пор надеется, что я брошу барабаны. Я на басу, но она путает. Бабушка живёт одна в Хэнаме: капуста, хурма и пёс Нурони. Каждую осень все съезжаются к ней на кимджан. Сто кочанов за два дня! Ну, пятьдесят. Но звучит же.", "en": "A bit about us. Dad drives a taxi in Gwangju and roots for the Kia Tigers so hard he yells at the TV. Mum teaches kids piano and still hopes I'll give up drums. I play bass, but she mixes them up. Grandma lives alone in Haenam with her cabbages, a persimmon tree and a dog called Nureongi. Every autumn we all go to her for gimjang. A hundred heads of cabbage in two days! Well, fifty. Sounds good though."}
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Пхаджон с морепродуктами", "en": "Seafood spring onion pancake"},
+        "orig": "Haemul Pajeon · 해물파전",
+        "note": {"ru": "Пошёл дождь — жарь пхаджон. Правда, все так делают: в дождь у блинных очереди. Говорят, масло на сковороде шипит, как дождь по крыше. Тесто жидкое, лука побольше, масла не жалей — края должны хрустеть. К нему нужна макколли, бутылка на нижней полке. Перед тем как открыть, осторожно переверни её пару раз.", "en": "When it rains, fry pajeon. Really, everyone does: on rainy days there are queues at the pancake places. They say the oil in the pan hisses like rain on a roof. Thin batter, lots of onion, plenty of oil — the edges must crunch. You need makgeolli with it, there's a bottle on the bottom shelf. Gently turn it over a couple of times before opening."},
+        "ingr": {"ru": ["зелёный лук — большой пучок", "мука — 1 стакан", "холодная вода — 1 стакан", "яйцо — 1 шт.", "кальмар или креветки — 150 г", "соус: соевый соус и уксус пополам"],
+                 "en": ["a big bunch of spring onions", "1 cup flour", "1 cup cold water", "1 egg", "150 g squid or prawns", "dip: soy sauce and vinegar, half and half"]},
+        "swaps": {"ru": [["корейская смесь для блинов", "обычная мука и щепоть крахмала"], ["тонкий корейский лук", "молодой зелёный лук"]],
+                  "en": [["Korean pancake mix", "plain flour and a pinch of starch"], ["thin Korean spring onion", "young spring onions"]]},
+        "sticker": "Pajeon"
+      },
+      "tv": {
+        "title": {"ru": "Экстремальная работа", "en": "Extreme Job"},
+        "orig": "Geukhan Jigeop · 극한직업",
+        "by": {"ru": "Ли Бён Хон", "en": "Lee Byeong-heon"},
+        "year": "2019",
+        "note": {"ru": "Пятеро невезучих полицейских следят за бандой и для прикрытия покупают закусочную с жареной курицей. А курица у них выходит такая, что к ним выстраивается очередь, и о слежке уже некогда думать. Только не смотри на голодный желудок. Лучше закажи курицу заранее — номер на холодильнике.", "en": "Five hopeless cops staking out a gang buy a fried-chicken joint as cover. Their chicken turns out so good there's a queue round the block, and there's no time left for the stakeout. Just don't watch it hungry. Better order chicken first — the number's on the fridge."},
+        "why": {"ru": "Фразу «Такого вкуса ещё не было. Это гальби или курица?» знает вся страна, её пародировали всюду. В кинотеатрах его посмотрели больше шестнадцати миллионов человек.", "en": "Everyone knows the line 'There's never been a taste like this. Is it galbi or chicken?' — it's been parodied everywhere. Over sixteen million people saw it in cinemas."},
+        "query": "Extreme Job 2019",
+        "sticker": "Extreme Job"
+      },
+      "record": {
+        "title": {"ru": "О, пхильсын, Корея", "en": "Oh Pilseung Korea"},
+        "orig": "O Pilseung Korea · 오 필승 코리아",
+        "by": {"ru": "Юн До Хён Бэнд", "en": "Yoon Do-hyun Band"},
+        "year": "",
+        "kind": "song",
+        "note": {"ru": "Летом 2002-го чемпионат мира проходил у нас и в Японии, и наша сборная дошла до полуфинала. Весь город высыпал на площади в красных футболках и пел вот это. Мне было два, но я «был там» — мама показывает фото. А после песни кричат «Тэ-хан-мин-гук!» и хлопают пять раз: хлоп-хлоп, хлоп, хлоп-хлоп.", "en": "In summer 2002 Korea and Japan hosted the World Cup, and our team made the semi-final. The whole city poured into the squares in red T-shirts and sang this. I was two, but I 'was there' — Mum has the photos. After the song comes the chant 'Dae-han-min-guk!' and five claps: clap-clap, clap, clap-clap."},
+        "query": "윤도현 오 필승 코리아",
+        "sticker": "Pilseung Korea"
+      },
+      "books": {
+        "title": {"ru": "Азалии", "en": "Azaleas"},
+        "orig": "Jindallaekkot · 진달래꽃",
+        "by": {"ru": "Ким Со Воль, стихи", "en": "Kim So-wol, poems"},
+        "year": "1925",
+        "note": {"ru": "Бабушка знает это стихотворение наизусть и читает, когда выпьет рюмочку на празднике. Девушка говорит любимому: если уйдёшь — отпущу молча, только рассыплю тебе на дорогу азалии, ступай по ним мягко. Его учат в школе все. Наша группа однажды попробовала положить его на музыку. Вышло так себе: Ким Со Воль справился лучше нас и без гитары.", "en": "Grandma knows this poem by heart and recites it after a glass at parties. A girl tells her love: if you leave, I'll let you go in silence, only I'll scatter azaleas on your path — tread on them softly. Every kid learns it at school. My band once tried setting it to music. It was so-so: Kim So-wol did better than us without a guitar."},
+        "sticker": "Kim So-wol"
+      },
+      "fact": {"ru": "Корейский алфавит придумали при короле Седжоне в XV веке, чтобы грамоте мог выучиться кто угодно. Согласные нарисованы по форме рта: «ㅁ» — это сомкнутые губы, «ㄱ» — язык, прижатый к нёбу. Выучишь за вечер, честно.", "en": "The Korean alphabet was created under King Sejong in the 15th century so that anyone could learn to read. The consonants are drawn after the mouth: 'ㅁ' is closed lips, 'ㄱ' is the tongue pressed to the palate. You can learn it in an evening, honestly."},
+      "phrase": {"say": "잘 먹겠습니다", "latin": "Jal meokgetseumnida", "text": {"ru": "«Хорошо поем» — говорят перед едой тому, кто готовил или платит. А после еды — «Чаль могоссымнида», «хорошо поел». Скажи это хотя бы курьеру с курицей.", "en": "'I will eat well' — said before a meal to whoever cooked or is paying. Afterwards it's 'Jal meogeosseumnida', 'I ate well'. Say it to the chicken delivery guy at least."}},
+      "rule": {"ru": "Палочки в рис стоймя не втыкай. Так ставят еду предкам на поминальном обряде, а живым так нельзя. Положи их рядом с миской.", "en": "Never stand your chopsticks up in rice. That's how food is set out for ancestors at memorial rites, not for the living. Lay them beside the bowl."},
+      "letter": {"ru": "Каждое лето в детстве меня отправляли к бабушке. Я гонял на её велосипеде с корзинкой, спал на тёплом полу и таскал хурму, когда она не видела. Она, конечно, видела. Осенью она всегда оставляет на дереве несколько плодов — «сорочья еда», птицам на зиму. Я спрашивал: а мне? Она отвечала: ты не сорока. Двадцать лет думаю, обидно это или нет.", "en": "Every summer as a kid I was sent to Grandma's. I rode her bike with the basket, slept on the warm floor and pinched persimmons when she wasn't looking. Of course she was looking. In autumn she always leaves a few on the tree — 'magpie food', for the birds in winter. I'd ask: what about me? She'd say: you're not a magpie. Twenty years on, I still can't decide if that was an insult."}
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Хотток", "en": "Hotteok, sweet filled pancakes"},
+        "orig": "Hotteok · 호떡",
+        "note": {"ru": "Зимой на каждом углу ларёк с хоттоками. Берёшь горячий, кусаешь — и сахар с корицей течёт по подбородку. Обжигаешься каждый раз, урок впрок не идёт. Дома тесто ставишь на дрожжах, ждёшь час, потом лепёшку с начинкой придавливаешь на сковороде. Для этого у меня есть специальная давилка, лежит в ящике со стикером «НЕ ОРУЖИЕ».", "en": "In winter there's a hotteok stall on every corner. You grab a hot one, bite — and cinnamon sugar runs down your chin. You burn yourself every time and never learn. At home you make a yeast dough, wait an hour, then press the filled round flat in the pan. I have a special press for that, in the drawer with the sticky note 'NOT A WEAPON'."},
+        "ingr": {"ru": ["пшеничная мука — 1,5 стакана", "клейкая рисовая мука — полстакана", "тёплое молоко — 1 стакан", "сухие дрожжи — 1 ч. л.", "коричневый сахар — 6 ст. л.", "корица — 1 ч. л.", "рубленые орехи — горсть"],
+                 "en": ["1.5 cups wheat flour", "half a cup glutinous rice flour", "1 cup warm milk", "1 tsp dried yeast", "6 tbsp brown sugar", "1 tsp cinnamon", "a handful of chopped nuts"]},
+        "swaps": {"ru": [["клейкая рисовая мука", "ещё полстакана пшеничной"], ["семечки и арахис", "любые орехи"]],
+                  "en": [["glutinous rice flour", "another half cup of wheat flour"], ["seeds and peanuts", "any nuts"]]},
+        "sticker": "Hotteok"
+      },
+      "tv": {
+        "title": {"ru": "Сопхёнчже", "en": "Sopyonje"},
+        "orig": "Seopyeonje · 서편제",
+        "by": {"ru": "Им Квон Тхэк", "en": "Im Kwon-taek"},
+        "year": "1993",
+        "note": {"ru": "Бабушкин фильм. Бродячий певец пхансори учит петь приёмных детей — так сурово, что смотреть страшно. Снимали у нас, в Чолла. Там есть сцена: трое идут по извилистой дороге между каменными оградами и поют «Чиндо ариран» — одним длинным кадром. Бабушка каждый раз подпевает и говорит: «Вот это наш край».", "en": "Grandma's film. A wandering pansori singer teaches his adopted children to sing — so harshly it's hard to watch. It was shot in our part of the country, Jeolla. There's a scene where the three of them walk down a winding road between stone walls singing 'Jindo Arirang' — one long take. Grandma always sings along and says: 'That's our land.'"},
+        "why": {"ru": "После него о пхансори — старинном пении под барабан — заговорили даже школьники. До этого многие считали его песнями для стариков.", "en": "After it, even schoolkids were talking about pansori — the old art of singing to a drum. Before that, plenty of people thought it was music for old folks."},
+        "query": "Seopyeonje 1993",
+        "sticker": "Seopyeonje"
+      },
+      "record": {
+        "title": {"ru": "Девушка-камелия", "en": "Camellia Lady"},
+        "orig": "Dongbaek Agassi · 동백 아가씨",
+        "by": {"ru": "Ли Ми Джа", "en": "Lee Mi-ja"},
+        "year": "1964",
+        "kind": "song",
+        "note": {"ru": "Это трот — так у нас зовут старые эстрадные песни с надрывом и особой дрожью в голосе. Ли Ми Джа — его королева. Бабушка включает её, когда режет капусту, и поёт громче магнитофона. А трот сейчас снова в моде: по телевизору конкурсы, молодые певцы, бабушки ездят на концерты целыми автобусами. Попробуй спеть припев — голос должен будто всхлипывать.", "en": "This is trot — our name for old pop songs full of heartache, sung with a special tremble. Lee Mi-ja is its queen. Grandma plays her while chopping cabbage and sings louder than the stereo. And trot is back in fashion: TV contests, young singers, grannies going to concerts by the busload. Try the chorus — your voice should sort of sob."},
+        "query": "이미자 동백 아가씨",
+        "sticker": "Lee Mi-ja"
+      },
+      "books": {
+        "title": {"ru": "Мисэн", "en": "Misaeng: Incomplete Life"},
+        "orig": "Misaeng · 미생",
+        "by": {"ru": "Юн Тхэ Хо, веб-комикс", "en": "Yoon Tae-ho, webtoon"},
+        "year": "2012",
+        "note": {"ru": "Это вебтун — комикс, который у нас читают в телефоне, листая вниз. Парень с детства играл в бадук, в профессионалы не пробился и стажёром попал в огромную торговую фирму: ни диплома, ни связей. Мне его посоветовал начальник в первый рабочий день, и я обиделся. Потом прочитал за ночь. «Мисэн» — слово из бадука: группа камней, которая ещё не живая. Как я.", "en": "It's a webtoon — a comic we read on our phones, scrolling down. A guy who played baduk since childhood never made it as a pro and lands an internship at a huge trading company: no degree, no connections. My boss recommended it on my first day at work, and I was offended. Then I read it in one night. 'Misaeng' is a baduk word: a group of stones that isn't alive yet. Like me."},
+        "sticker": "Misaeng"
+      },
+      "fact": {"ru": "Мусор у нас выбрасывают только в платных пакетах своего района — их продают в круглосуточном. Пищевые отходы отдельно, в свой бачок. Выбросишь не в тот пакет — соседка найдёт. Она находит всё.", "en": "Rubbish here only goes out in paid bags issued by your district — you buy them at the convenience store. Food waste goes separately, in its own bin. Use the wrong bag and the neighbour will find it. She finds everything."},
+      "phrase": {"say": "대박", "latin": "Daebak", "text": {"ru": "Восторг на все случаи: «Ничего себе!», «Круто!», «Вот это да!». Буквально — «большой куш». Друг подстригся — «тэбак», курицу привезли за десять минут — «тэбак».", "en": "Delight for every occasion: 'No way!', 'Awesome!', 'Wow!'. Literally 'a big jackpot'. Friend got a haircut — daebak. Chicken came in ten minutes — daebak."}},
+      "rule": {"ru": "Старшему наливай двумя руками, а пьёшь при нём — чуть отвернись. Себе сам не наливай: следи за чужими стаканами, твой наполнят другие.", "en": "Pour for an elder with both hands, and when you drink in front of them, turn slightly away. Never pour your own: watch everyone else's glass, and someone will fill yours."},
+      "letter": {"ru": "Признаюсь сразу: если соседи жалуются на шум с крыши — это я. Был я. У меня группа «Рамён на крыше», нас четверо, я на басу. Репетируем в подвале у Мин Су, а выступаем в крошечном клубе в Хондэ, где нас слушают человек пятнадцать, из них девять — наши друзья. Бас стоит в углу. Потрогать можно, настраивать нельзя. Он настроен идеально. Почти.", "en": "Let me confess right away: if the neighbours complain about noise from the roof, that's me. Was me. I have a band, Rooftop Ramyeon, four of us, I'm on bass. We rehearse in Min-su's basement and play a tiny club in Hongdae for about fifteen people, nine of them our friends. The bass is in the corner. You can touch it, but don't tune it. It's perfectly in tune. Almost."}
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Посам — варёная свинина с кимчи", "en": "Bossam, boiled pork wraps"},
+        "orig": "Bossam · 보쌈",
+        "note": {"ru": "Вот что мы едим прямо сейчас у бабушки. В день кимджана, когда руки уже красные от перца, варят свиную грудинку и заворачивают её в капустный лист со свежей начинкой для кимчи. Это награда за весь день. Варить полтора часа, с твенджаном и ложкой растворимого кофе — да, кофе, он убирает запах. Режь тонко, ешь горячим.", "en": "This is what we're eating at Grandma's right now. On gimjang day, when your hands are red from chilli, you boil pork belly and wrap it in a cabbage leaf with fresh kimchi filling. It's the reward for the whole day. Simmer it for an hour and a half with doenjang and a spoon of instant coffee — yes, coffee, it takes away the porky smell. Slice thin, eat hot."},
+        "ingr": {"ru": ["свиная грудинка — 1 кг", "твенджан (соевая паста) — 2 ст. л.", "растворимый кофе — 1 ч. л.", "луковица, чеснок, имбирь", "листья пекинской капусты, подсоленные", "свежее кимчи или острая редька"],
+                 "en": ["1 kg pork belly", "2 tbsp doenjang (soybean paste)", "1 tsp instant coffee", "an onion, garlic, ginger", "napa cabbage leaves, lightly salted", "fresh kimchi or spicy radish"]},
+        "swaps": {"ru": [["твенджан", "мисо"], ["подсоленные листья капусты", "свежие листья салата"]],
+                  "en": [["doenjang", "miso"], ["salted cabbage leaves", "fresh lettuce leaves"]]},
+        "sticker": "Bossam"
+      },
+      "tv": {
+        "title": {"ru": "Ответ 1988", "en": "Reply 1988"},
+        "orig": "Eungdaphara 1988 · 응답하라 1988",
+        "by": {"ru": "Син Вон Хо, сериал tvN", "en": "Shin Won-ho, tvN series"},
+        "year": "2015–2016",
+        "note": {"ru": "Пять семей в одном переулке сеульского Ссанмун-дона, конец восьмидесятых. Мамы передают друг другу еду через забор, отцы спорят, дети растут и влюбляются. Мама смотрела и плакала: говорит, всё было ровно так, вплоть до кастрюль. Я пересматриваю зимой, когда скучаю по дому. Двадцать серий, и все длинные. Отменяй планы.", "en": "Five families in one alley of Seoul's Ssangmun-dong, the late eighties. Mums pass food to each other over the wall, dads argue, kids grow up and fall in love. My mum watched it in tears: she says it was exactly like that, down to the pots and pans. I rewatch it in winter when I'm homesick. Twenty episodes, all long ones. Cancel your plans."},
+        "why": {"ru": "Его смотрят всей семьёй: родители узнают свою молодость, дети — своих родителей. После него снова вошли в моду вещи и песни восьмидесятых.", "en": "Whole families watch it: parents recognise their youth, kids recognise their parents. It brought eighties clothes and songs back into fashion."},
+        "query": "Reply 1988",
+        "sticker": "Reply 1988"
+      },
+      "record": {
+        "title": {"ru": "Около тридцати", "en": "Around Thirty"},
+        "orig": "Seoreun Jeumeue · 서른 즈음에",
+        "by": {"ru": "Ким Гван Сок", "en": "Kim Kwang-seok"},
+        "year": "1994",
+        "kind": "song",
+        "note": {"ru": "Песня о том, что тебе почти тридцать, а дни уходят, как сигаретный дым. Папа поёт её в караоке с тех пор, как ему было двадцать. Мне двадцать шесть, и я впервые понял, о чём она. Ким Гван Сок пел просто, под гитару и губную гармошку. Её хорошо слушать вечером на крыше. Только долго не грусти — это приказ.", "en": "A song about being nearly thirty while the days drift off like cigarette smoke. Dad has sung it at karaoke since he was twenty. I'm twenty-six and only now get what it's about. Kim Kwang-seok sang it plainly, with a guitar and a harmonica. It's good for evenings on the roof. Just don't stay sad for long — that's an order."},
+        "query": "김광석 서른 즈음에",
+        "sticker": "Kim Kwang-seok"
+      },
+      "books": {
+        "title": {"ru": "Повесть о Чхунхян", "en": "The Tale of Chunhyang"},
+        "orig": "Chunhyangjeon · 춘향전",
+        "by": {"ru": "народная повесть", "en": "folk tale, author unknown"},
+        "year": "",
+        "note": {"ru": "Её все знают ещё до школы. Дочь кисэн Чхунхян тайно выходит за сына уездного начальника, тот уезжает в столицу, а новый начальник требует, чтобы она стала его. Она отказывает, даже в тюрьме. В конце муж возвращается тайным ревизором — тут всем хочется хлопать. Бабушка знает её как пхансори, «Чхунхянга», и поёт кусочки, когда месит тесто.", "en": "Everyone knows it before they even start school. Chunhyang, a courtesan's daughter, secretly marries the magistrate's son; he leaves for the capital, and the new magistrate demands she be his. She refuses, even in prison. In the end her husband returns as a secret royal inspector — and everyone wants to cheer. Grandma knows it as the pansori 'Chunhyangga' and sings bits of it while kneading dough."},
+        "sticker": "Chunhyang"
+      },
+      "fact": {"ru": "Кимджан — когда родня и соседи вместе заготавливают кимчи на зиму — с 2013 года в списке нематериального наследия ЮНЕСКО. А у многих дома стоит отдельный холодильник только для кимчи. У бабушки их два.", "en": "Gimjang — family and neighbours making winter kimchi together — has been on UNESCO's intangible heritage list since 2013. And lots of homes have a separate fridge just for kimchi. Grandma has two."},
+      "phrase": {"say": "거시기", "latin": "Geosigi", "text": {"ru": "Знаменитое словечко из говора Чолла: «эта штука», «ну этот, как его». Им можно заменить что угодно — вещь, человека, действие. Бабушка говорит: «Подай-ка мне вон тот косиги», — и я, как ни странно, понимаю.", "en": "The famous word of Jeolla dialect: 'that thingy', 'whatsit'. It can stand in for anything — an object, a person, an action. Grandma says 'Pass me that geosigi over there', and somehow I always know what she means."}},
+      "rule": {"ru": "Не тряси ногой под столом: бабушка говорит, так из тебя вытрясается удача. Я трясу, когда рисую макеты. Может, поэтому до сих пор младший дизайнер.", "en": "Don't jiggle your leg under the table: Grandma says it shakes your luck out. I jiggle mine when I'm designing layouts. Maybe that's why I'm still a junior designer."},
+      "letter": {"ru": "Скажу тебе секрет. Кимчи у бабушки лучшее в деревне, а рецепта нет — ни строчки. Она всё кладёт на глаз: «Перца — вот столько, рыбного соуса — сколько душа попросит». В этом году я решил всё записать. Хожу за ней с телефоном и стикерами, она ворчит, что я под ногами путаюсь. Никому ни слова: к её дню рождения я сделаю книжечку её рецептов. С картинками. Я же дизайнер.", "en": "Here's a secret. Grandma's kimchi is the best in the village, and there's no recipe — not a single line. She does it all by eye: 'This much chilli, as much fish sauce as your heart tells you.' This year I decided to write it all down. I follow her around with my phone and sticky notes while she grumbles that I'm under her feet. Not a word to anyone: for her birthday I'm making her a little book of her recipes. With pictures. I'm a designer, after all."}
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Миёккук — суп из морской капусты", "en": "Miyeok-guk, seaweed soup"},
+        "orig": "Miyeokguk · 미역국",
+        "note": {"ru": "Это суп на день рождения. Так повелось: мамы едят его после родов, а в свой день рождения ты ешь его в честь мамы. Если кореец утром говорит «мама сварила миёккук», — поздравь его. Водоросли замочи — они сильно разбухнут, так что бери меньше, чем кажется. Обжарь с говядиной на кунжутном масле, залей водой и вари.", "en": "This is birthday soup. The custom goes: mothers eat it after giving birth, and on your birthday you eat it in honour of your mum. If a Korean tells you in the morning 'Mum made miyeok-guk', wish them happy birthday. Soak the seaweed — it swells a lot, so use less than you think. Fry it with beef in sesame oil, add water and simmer."},
+        "ingr": {"ru": ["сушёные водоросли миёк — 20 г", "говядина — 150 г", "кунжутное масло — 1 ст. л.", "соевый соус для супа — 1 ст. л.", "чеснок — 2 зубчика", "вода — 1,5 л"],
+                 "en": ["20 g dried miyeok seaweed", "150 g beef", "1 tbsp sesame oil", "1 tbsp soup soy sauce", "2 cloves garlic", "1.5 l water"]},
+        "swaps": {"ru": [["миёк", "сушёные вакамэ — это они и есть"], ["соевый соус для супа", "обычный соевый соус и щепоть соли"]],
+                  "en": [["miyeok", "dried wakame — it's the same thing"], ["soup soy sauce", "regular soy sauce and a pinch of salt"]]},
+        "sticker": "Miyeokguk"
+      },
+      "tv": {
+        "title": {"ru": "Деревенский дневник", "en": "Country Diaries"},
+        "orig": "Jeonwon Ilgi · 전원일기",
+        "by": {"ru": "сериал MBC", "en": "MBC series"},
+        "year": "1980–2002",
+        "note": {"ru": "Бабушкин сериал. Деревня, большая семья, коровы, ссоры из-за межи и примирение за общим столом. Шёл двадцать два года, больше тысячи серий. Бабушка до сих пор смотрит повторы по кабельному и пересказывает, что будет дальше, хотя я не спрашиваю. Я как-то посмотрел с ней пару серий — и, знаешь, затягивает.", "en": "Grandma's show. A village, a big family, cows, quarrels over field boundaries and making up at the dinner table. It ran for twenty-two years, over a thousand episodes. Grandma still watches reruns on cable and tells me what happens next, though I never ask. I once watched a couple with her — and, you know, it gets you."},
+        "why": {"ru": "Его смотрели целыми поколениями. Для старших это сериал о том, какой была деревня, пока все не разъехались по городам.", "en": "Generations grew up with it. For older people it shows what village life was like before everyone moved to the cities."},
+        "query": "전원일기",
+        "sticker": "Jeonwon Ilgi"
+      },
+      "record": {
+        "title": {"ru": "Выйдешь за меня?", "en": "Will You Marry Me"},
+        "orig": "Gyeolhonhae Jullae · 결혼해 줄래",
+        "by": {"ru": "Ли Сын Ги", "en": "Lee Seung-gi"},
+        "year": "2009",
+        "kind": "song",
+        "note": {"ru": "На свадьбах у нас поёт кто-нибудь из друзей — это называется «чхукка», свадебная песня. И очень часто выбирают эту. В прошлом году на свадьбе двоюродной сестры её пел я, с группой. На припеве голос сорвался, зато хлопали все. Сестра говорит, это было лучшее и худшее за весь день.", "en": "At our weddings a friend always sings — it's called chukga, the wedding song. And very often it's this one. Last year at my cousin's wedding I sang it, with the band. My voice cracked on the chorus, but everyone clapped. My cousin says it was the best and worst moment of the whole day."},
+        "query": "이승기 결혼해 줄래",
+        "sticker": "Lee Seung-gi"
+      },
+      "books": {
+        "title": {"ru": "Земля", "en": "Land"},
+        "orig": "Toji · 토지",
+        "by": {"ru": "Пак Кён Ни", "en": "Park Kyung-ni"},
+        "year": "1969–1994",
+        "note": {"ru": "Мамина книга — стоит у неё целой полкой, том к тому, как кирпичи. Огромная сага о богатой семье с юга, из деревни Пхёнсари под Хадоном, с конца девятнадцатого века до освобождения страны. Пак Кён Ни писала её двадцать пять лет. Мама прочитала дважды. Я — первый том. Честно собираюсь дальше. Каждый год собираюсь.", "en": "Mum's book — it fills a whole shelf of hers, volume after volume, like bricks. A huge saga of a wealthy southern family from the village of Pyeongsa-ri near Hadong, from the late nineteenth century to the country's liberation. Park Kyung-ni wrote it over twenty-five years. Mum has read it twice. I've read volume one. I honestly mean to go on. Every year I mean to."},
+        "sticker": "Toji"
+      },
+      "fact": {"ru": "Курицу в Корее привезут куда угодно, даже в парк на берегу Хангана: там есть специальные места, куда подъезжают курьеры. В тёплый вечер вся трава в людях с курицей и пивом.", "en": "In Korea chicken gets delivered anywhere, even to the parks along the Han: there are special spots where couriers meet you. On a warm evening the whole lawn is covered in people with chicken and beer."},
+      "phrase": {"say": "우리", "latin": "Uri", "text": {"ru": "«Мы», «наш». Корейцы говорят «наша мама», «наш дом», даже если ты единственный ребёнок. «Моя мама» звучит как-то одиноко. Так что на этой неделе ты — «наш гость», «ури сонним».", "en": "'We', 'our'. Koreans say 'our mum', 'our house', even if you're an only child. 'My mum' sounds a bit lonely. So this week you're 'our guest' — uri sonnim."}},
+      "rule": {"ru": "Перед экзаменом суп из водорослей не ешь — они скользкие, и экзамен «соскользнёт». «Наелся миёккука» у нас так и говорят про провал.", "en": "Don't eat seaweed soup before an exam — it's slippery, and you'll slip up. 'I ate miyeok-guk' is how we say we failed."},
+      "letter": {"ru": "Ещё одно признание. На крыше, в пенопластовых ящиках, у меня растут перец и листья периллы. Ну, как растут — выживают. Хозяйка снизу считает этот огород своим и поливает его, когда меня нет. Мы делаем вид, что ничего не знаем друг о друге. Увидишь её с лейкой — поздоровайся и не выдавай. И нарви себе листьев к мясу, они для того и растут.", "en": "One more confession. On the roof, in styrofoam boxes, I grow chillies and perilla leaves. Well, 'grow' — they survive. The landlady thinks the garden is hers and waters it when I'm out. We both pretend we don't know about each other. If you see her with a watering can, say hello and don't give me away. And pick some leaves to wrap your meat in — that's what they're for."}
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Ттоккук — суп с рисовыми лепёшками", "en": "Tteokguk, rice cake soup"},
+        "orig": "Tteokguk · 떡국",
+        "note": {"ru": "Новогодний суп. На Соллаль, лунный Новый год, его едят все, и только после тарелки ттоккука становишься на год старше. Бабушка шутит, что я съел лишнюю тарелку, вот у меня и седой волос. Тонкие овальные ломтики рисовой колбаски — белые, как чистый лист в новом году. Сверху — яичная соломка и полоски сушёной водоросли.", "en": "New Year soup. At Seollal, the Lunar New Year, everyone eats it, and only after a bowl of tteokguk are you truly a year older. Grandma jokes I had one bowl too many, hence my grey hair. Thin oval slices of rice cake — white, like a clean page for the new year. On top, ribbons of egg and strips of dried seaweed."},
+        "ingr": {"ru": ["рисовые лепёшки для ттоккука — 400 г", "говядина — 150 г", "бульон — 1,5 л", "яйцо — 1 шт.", "лист сушёной водоросли ким — 1 шт.", "соевый соус, чеснок, зелёный лук"],
+                 "en": ["400 g sliced rice cakes for tteokguk", "150 g beef", "1.5 l broth", "1 egg", "1 sheet of dried gim seaweed", "soy sauce, garlic, spring onion"]},
+        "swaps": {"ru": [["нарезанные лепёшки", "замороженные рисовые палочки, нарезанные наискосок"], ["лист кима", "нори для роллов"]],
+                  "en": [["sliced rice cakes", "frozen rice-cake sticks, cut on the diagonal"], ["gim sheet", "sushi nori"]]},
+        "sticker": "Tteokguk"
+      },
+      "tv": {
+        "title": {"ru": "Паразиты", "en": "Parasite"},
+        "orig": "Gisaengchung · 기생충",
+        "by": {"ru": "Пон Джун Хо", "en": "Bong Joon-ho"},
+        "year": "2019",
+        "note": {"ru": "Ты его, конечно, видел. Но пересмотри здесь: в Сеуле полно полуподвалов, как у тех героев, и комнаток на крышах, как у меня. Мы, жители крыш, где-то посередине. И свари себе «чапагури»: «Чапагетти» и «Ногури» в одной кастрюле. В фильме туда кладут дорогую говядину, у меня в шкафу только лапша. Вкусно и так.", "en": "You've seen it, of course. But watch it again here: Seoul is full of semi-basements like that family's and rooftop rooms like mine. We roof people are somewhere in between. And make yourself 'jjapaguri': Chapagetti and Neoguri in one pot. In the film they add expensive beef; my cupboard only has the noodles. Still tasty."},
+        "why": {"ru": "Первый фильм не на английском языке, получивший «Оскар» как лучший фильм года. А до этого — «Золотая пальмовая ветвь» в Каннах.", "en": "The first non-English-language film to win the Oscar for Best Picture. Before that it took the Palme d'Or at Cannes."},
+        "query": "Parasite Bong Joon-ho",
+        "sticker": "Parasite"
+      },
+      "record": {
+        "title": {"ru": "Ночное письмо", "en": "Through the Night"},
+        "orig": "Bam Pyeonji · 밤편지",
+        "by": {"ru": "Айю", "en": "IU"},
+        "year": "2017",
+        "kind": "song",
+        "note": {"ru": "Айю любят все: мой барабанщик, моя мама и, подозреваю, бабушка. Её давно зовут «младшей сестрёнкой нации». Эта песня — тихое письмо перед сном, будто кто-то шепчет тебе «спи». Включи её, когда дочитаешь мои записки. А потом выключи свет на крыше — выключатель со стикером «ЛУНА».", "en": "Everyone loves IU: my drummer, my mum and, I suspect, my grandma. She's long been called 'the nation's little sister'. This song is a quiet letter at bedtime, like someone whispering 'sleep'. Put it on when you've finished reading my notes. Then turn off the roof light — the switch with the sticky note 'MOON'."},
+        "query": "아이유 밤편지",
+        "sticker": "IU"
+      },
+      "books": {
+        "title": {"ru": "Неудобный магазин", "en": "The Uncanny Convenience Store"},
+        "orig": "Bulpyeonhan Pyeonuijeom · 불편한 편의점",
+        "by": {"ru": "Ким Хо Ён", "en": "Kim Ho-yeon"},
+        "year": "2021",
+        "note": {"ru": "Книга про круглосуточный магазин — как я мог пройти мимо? Бездомный, который почти ничего о себе не помнит, становится ночным продавцом в маленьком магазинчике в районе Чхонпха-дон. Соображает медленно, говорит с трудом — и всё равно умудряется помочь каждому покупателю. Её читали все, от школьников до моего папы. Наш продавец внизу тоже. Говорит, у него ночи не такие душевные.", "en": "A book about a convenience store — how could I resist? A homeless man who barely remembers who he is becomes the night clerk at a little shop in Cheongpa-dong. He's slow, he struggles to speak — and still manages to help every customer. Everyone read it, from schoolkids to my dad. Our guy downstairs too. He says his night shifts aren't nearly so heartwarming."},
+        "sticker": "Convenience Store"
+      },
+      "fact": {"ru": "До 2023 года в Корее считали возраст по-своему: при рождении тебе уже год, а 1 января все разом становятся на год старше. Малыш, родившийся 31 декабря, назавтра был «двухлетним». Теперь по закону считают как везде, но старшие до сих пор путаются.", "en": "Until 2023 Koreans counted age their own way: you're one at birth, and on 1 January everyone turns a year older at once. A baby born on 31 December was 'two' the next day. Now the law counts like everywhere else, but older folks still get mixed up."},
+      "phrase": {"say": "또 와요!", "latin": "Tto wayo!", "text": {"ru": "«Приходи ещё!» — так говорят гостю на пороге и покупателю на рынке. Отвечать надо «Нэ!» — «Да!», даже если не уверен. Я тебе это говорю заранее.", "en": "'Come again!' — said to a guest at the door and to a customer at the market. You answer 'Ne!' — 'Yes!', even if you're not sure. I'm saying it to you in advance."}},
+      "rule": {"ru": "Имена красной ручкой не пиши — красным пишут имена умерших. Красная ручка у меня на столе только для правок в макетах.", "en": "Never write someone's name in red ink — that's how the names of the dead are written. The red pen on my desk is only for marking up layouts."},
+      "letter": {"ru": "Ну вот и неделя прошла. Спасибо, что жил в моей каморке, поливал перец и не трогал бас (я узнаю, если трогал). Бабушкино кимчи ты уже не застанешь, поэтому в морозилке для тебя пачка манду — на последний ужин. И одна просьба: напиши на стикере что-нибудь своё — рецепт, фильм, песню, которую у вас знают все. Приклей на холодильник, рядом с моими. Мне правда интересно, что у вас едят, когда идёт дождь.", "en": "Well, that's the week. Thanks for living in my cubbyhole, watering the peppers and not touching the bass (I'll know if you did). You'll miss Grandma's kimchi, so there's a bag of mandu in the freezer for you — for your last dinner. One request: write something of yours on a sticky note — a recipe, a film, a song everyone back home knows. Stick it on the fridge next to mine. I really want to know what you eat when it rains."}
+    }
+  ]
+}

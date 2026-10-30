@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Under the Mat</string>
+    <string name="channel">New letters in the flat</string>
+
+    <string name="w_sub">A week in someone else\'s flat, abroad, without leaving home.</string>
+    <string name="w_note">The key is under the mat. I\'m away for a week, the flat is yours.\n\nI\'ve left notes in every corner: what to cook tonight, which film everybody here knows by heart, which record to put on, what\'s on the shelf. Read one day at a time.</string>
+    <string name="w_sign">— your host</string>
+    <string name="w_how">Twelve flats in twelve cities, each with its own person. A new day of notes opens every morning; the window shows the real time and weather over there. Cook, watch, listen and read — and the suitcase fills with stickers.</string>
+    <string name="w_go">To the noticeboard</string>
+
+    <string name="board">Noticeboard</string>
+    <string name="board_sub">Flats for a week. Choose whose door to open.</string>
+    <string name="now_at">You\'re staying %1$s · day %2$d of 7</string>
+    <string name="you_are_here">● you\'re staying here</string>
+    <string name="been_here">✓ you\'ve had a week here</string>
+    <string name="take_key">Take the key</string>
+    <string name="go_home">Back to the flat</string>
+    <string name="ends_stay">Your week %1$s ends today.</string>
+    <string name="week_hint">Seven days %1$s: one new day of notes each morning.</string>
+
+    <string name="door_where">%1$s, %2$s.\nThe key is under the mat.</string>
+    <string name="door_tap">lift the mat</string>
+    <string name="open_door">Open the door</string>
+
+    <string name="there_now">time there</string>
+    <string name="all_read">all read</string>
+    <string name="menu_board">Noticeboard</string>
+    <string name="menu_weeks">My weeks</string>
+    <string name="menu_settings">Settings</string>
+    <string name="suitcase">Suitcase</string>
+    <string name="evening_in">An evening %1$s</string>
+    <string name="leave">I\'m off</string>
+    <string name="knock">Knock-knock!</string>
+
+    <string name="tag_day">%1$s · day %2$d</string>
+    <string name="p_kitchen">Kitchen</string>
+    <string name="p_tv">Television</string>
+    <string name="p_record">Record player</string>
+    <string name="p_books">Bookshelf</string>
+    <string name="p_fridge">Fridge</string>
+    <string name="p_rules">On the fridge</string>
+    <string name="p_drawer">Desk drawer</string>
+    <string name="p_word">Frame on the wall</string>
+    <string name="p_window">Window</string>
+    <string name="p_calendar">Calendar</string>
+
+    <string name="need">What you need</string>
+    <string name="swaps">If you can\'t find it</string>
+    <string name="why">Why everyone knows it</string>
+    <string name="shopping">Shopping list</string>
+    <string name="where">Where to find</string>
+    <string name="where_title">Look it up</string>
+    <string name="do_kitchen">Cooked it</string>
+    <string name="done_kitchen">Cooked ✓</string>
+    <string name="do_tv">Watched it</string>
+    <string name="done_tv">Watched ✓</string>
+    <string name="do_record">Listened</string>
+    <string name="done_record">Listened ✓</string>
+    <string name="do_books">Started reading</string>
+    <string name="done_books">Reading ✓</string>
+    <string name="sticker_in">A sticker for the suitcase: %1$s</string>
+
+    <string name="rules_title">House rule</string>
+    <string name="rules_card">Rule of the day</string>
+    <string name="rules_hint">One unwritten rule a day: no moral, just how people live here.</string>
+    <string name="letter_title">A letter in the drawer</string>
+    <string name="leave_gift">Leave a gift and the key</string>
+    <string name="word_sub">a word that doesn\'t translate</string>
+    <string name="fridge_title">Magnets on the fridge</string>
+    <string name="fact">Did you know</string>
+    <string name="phrase">Word of the day</string>
+    <string name="say_it">▶ Say it aloud</string>
+    <string name="no_voice">This phone has no voice for that language yet</string>
+
+    <string name="window_title">The view from the window</string>
+    <string name="time_there">%1$s, %2$s</string>
+    <string name="ahead">%1$s h ahead of you</string>
+    <string name="behind">%1$s h behind you</string>
+    <string name="same_time">same time as you</string>
+    <string name="weather">Weather outside</string>
+    <string name="no_weather">No forecast: the weather comes from the internet.</string>
+    <string name="windy">windy</string>
+    <string name="sky_clear">Clear</string>
+    <string name="sky_cloudy">Some cloud</string>
+    <string name="sky_overcast">Overcast</string>
+    <string name="sky_fog">Fog</string>
+    <string name="sky_drizzle">Drizzle</string>
+    <string name="sky_rain">Rain</string>
+    <string name="sky_storm">Thunderstorm</string>
+    <string name="sky_snow">Snow</string>
+    <string name="sky_sleet">Sleet</string>
+
+    <string name="today_is">Today: %1$s</string>
+    <string name="how_here">How %1$s keeps it</string>
+    <string name="next_holidays">Coming up</string>
+
+    <string name="guest_tag">A neighbour</string>
+    <string name="how_live">How people live here</string>
+    <string name="take_gift">Take it, thank you!</string>
+
+    <string name="e_tag">For two or for friends</string>
+    <string name="e_table">On the table</string>
+    <string name="e_music">While it cooks</string>
+    <string name="e_film">After dinner</string>
+    <string name="e_toast">The toast</string>
+    <string name="e_talk">Three things to talk about</string>
+    <string name="share">Share the evening</string>
+
+    <string name="f_tag">Day seven</string>
+    <string name="f_title">Something for %1$s</string>
+    <string name="f_text">Leave something of your own country, as the host did: a dish, a film, a song. Anything can be left empty.</string>
+    <string name="f_dish">A dish from home</string>
+    <string name="f_film">A film everyone at home knows</string>
+    <string name="f_song">A song</string>
+    <string name="f_note">A note for %1$s</string>
+    <string name="f_go">Put the key back under the mat</string>
+    <string name="f_hint">The week %1$s stays in “My weeks”: every note can be read again.</string>
+
+    <string name="a_week">a week %1$s</string>
+    <string name="suitcase_empty">Empty so far. Cook, watch, listen and read what the hosts left you.</string>
+    <string name="suitcase_hint">A sticker for every dish cooked, film watched, record heard and book begun; one from every neighbour; and a big red one for every week.</string>
+    <string name="weeks">My weeks</string>
+    <string name="weeks_empty">No weeks yet. When the key goes back under the mat, the week will be here.</string>
+    <string name="you_left">You left: %1$s</string>
+    <string name="open_again">Open the flat again →</string>
+
+    <string name="s_notify">A note in the evening</string>
+    <string name="s_notify_hint">When the host\'s next day of letters is in the flat.</string>
+    <string name="s_hour">Not before %1$d:00</string>
+    <string name="s_language">Language</string>
+    <string name="s_lang_system">System</string>
+    <string name="s_debug">For testing</string>
+    <string name="s_next_day">Move on a day</string>
+    <string name="s_credits">The hosts are invented; the films, records, books, dishes and holidays are real. Weather: Open-Meteo and MET Norway (only the city\'s coordinates are sent). Fonts: PT Serif (ParaType), Caveat (Pablo Impallari), SIL OFL.</string>
+
+    <string name="n_title">%1$s · day %2$d</string>
+    <string name="n_text">New notes in the flat. Have a look in the drawer %1$s.</string>
+
+    <string name="community">Community</string>
+    <string name="community_text">Under the Mat is made by one person. Bugs, ideas and news go through the StillCraft bot in Telegram.</string>
+    <string name="community_bug">Report a bug</string>
+    <string name="community_bug_sub">Something broke or looks wrong</string>
+    <string name="community_idea">Suggest an idea</string>
+    <string name="community_idea_sub">What would make it better</string>
+    <string name="community_follow">Follow updates</string>
+    <string name="community_follow_sub">A message when a new version is out</string>
+    <string name="community_chat">StillCraft chat</string>
+    <string name="community_chat_sub">Talk to other people who use the apps</string>
+
+    <plurals name="notes_left">
+        <item quantity="one">%d note</item>
+        <item quantity="other">%d notes</item>
+    </plurals>
+    <plurals name="in_days">
+        <item quantity="one">in %d day</item>
+        <item quantity="other">in %d days</item>
+    </plurals>
+    <plurals name="stickers">
+        <item quantity="one">%d sticker</item>
+        <item quantity="other">%d stickers</item>
+    </plurals>
+    <plurals name="cities">
+        <item quantity="one">%d city</item>
+        <item quantity="other">%d cities</item>
+    </plurals>
+    <plurals name="done_things">
+        <item quantity="one">%d thing done</item>
+        <item quantity="other">%d things done</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A doormat, and the key that waits under it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#FFA8683A" android:pathData="M30,58 L78,58 L84,78 L24,78 Z" />
+    <path android:strokeColor="#FF6B3A1A" android:strokeWidth="1.2" android:fillColor="#00000000"
+        android:pathData="M32.5,61 L75.5,61 L80,75 L28,75 Z" />
+    <path android:strokeColor="#FF8A5028" android:strokeWidth="1"
+        android:pathData="M36,61 L34,75 M42,61 L41,75 M48,61 L47.5,75 M54,61 L54,75 M60,61 L60.5,75 M66,61 L67,75 M72,61 L74,75" />
+    <path android:strokeColor="#FFD8B25A" android:strokeWidth="4.2" android:fillColor="#00000000" android:strokeLineCap="round"
+        android:pathData="M30,44 A7,7 0 1,1 44,44 A7,7 0 1,1 30,44 Z M44,44 L72,44 M64,44 L64,50 M70,44 L70,49" />
+</vector>

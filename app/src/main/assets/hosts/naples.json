@@ -1,0 +1,515 @@
+{
+  "id": "naples",
+  "stamp": "NAPOLI",
+  "lang": "it-IT",
+  "city": {"ru": "Неаполь", "en": "Naples"},
+  "country": {"ru": "Италия", "en": "Italy"},
+  "address": {"ru": "квартал Санита, 3-й этаж", "en": "Rione Sanità, third floor"},
+  "host": {"ru": "Нонна Лючия", "en": "Nonna Lucia"},
+  "sign": {"ru": "— Нонна", "en": "— Nonna"},
+  "about": {
+    "ru": "Лючия Эспозито, 78 лет, вдова. Её муж Тото сорок лет собирал фигурки для рождественского вертепа с виа Сан-Грегорио-Армено, а она сорок лет ворчала, что их некуда ставить.",
+    "en": "Lucia Esposito, 78, a widow. For forty years her husband Totò collected nativity figures from Via San Gregorio Armeno, and for forty years she grumbled there was nowhere to put them."
+  },
+  "listing": {
+    "ru": "Сдаю на неделю квартиру в Санита. Третий этаж без лифта, зато балкон и базилик. Кот не мой.",
+    "en": "Flat in Sanità for a week. Third floor, no lift, but a balcony and basil. The cat is not mine."
+  },
+  "away": {
+    "ru": "Я у дочки в Турине до воскресенья. Квартира твоя. Записки — по всему дому.",
+    "en": "I'm at my daughter's in Turin till Sunday. The flat is yours. Notes all over the house."
+  },
+  "doorplate": "FAM. ESPOSITO",
+  "mat": "BENVENUTI",
+  "word": {
+    "word": "arrangiarsi",
+    "text": {
+      "ru": "Умение выкрутиться из чего угодно тем, что есть под рукой. Сломался кран, кончились деньги, перекрыли дорогу — неаполитанец найдёт способ. Это не хитрость, а почти гордость.",
+      "en": "The art of getting by with whatever is at hand. The tap breaks, the money runs out, the road is closed — a Neapolitan will find a way. It isn't cunning; it's almost a point of pride."
+    }
+  },
+  "toast": {
+    "say": "Cent'anni!",
+    "text": {
+      "ru": "«Сто лет!» — чтобы прожить их все, и чтобы за этим столом. Чокаются, глядя в глаза, иначе не считается.",
+      "en": "“A hundred years!” — may you live them all, and at this table. Clink glasses looking each other in the eye, or it doesn't count."
+    }
+  },
+  "hours": [
+    {"h": 0, "ru": "Полночь, а внизу ещё мопеды и голоса: молодёжь сидит на ступеньках церкви до двух.", "en": "Midnight, yet scooters and voices below: the young ones sit on the church steps till two."},
+    {"h": 6, "ru": "Открылся бар на углу. Кофе пьют стоя, за минуту, и бегом на работу.", "en": "The corner bar has opened. Coffee standing up, one minute, then off to work."},
+    {"h": 9, "ru": "На рынке кричат торговцы: рыба, артишоки, лимоны размером с кулак.", "en": "Stallholders shouting at the market: fish, artichokes, lemons the size of a fist."},
+    {"h": 13, "ru": "Обед. Из каждого окна пахнет соусом и слышны новости, улица пустеет.", "en": "Lunch. Every window smells of sauce and hums with the news; the street empties."},
+    {"h": 16, "ru": "Тихо. Ставни закрыты, жара, спит даже кот. Лавки откроются после пяти.", "en": "Quiet. Shutters closed, heat, even the cat is asleep. Shops reopen after five."},
+    {"h": 18, "ru": "Все вышли на улицу. Мальчишки гоняют мяч на площади, бабушки сидят у подъезда.", "en": "Everyone is out. Boys kick a ball in the piazza, grannies sit by the front door."},
+    {"h": 21, "ru": "Ужинаем поздно. В пиццериях битком, очередь стоит прямо на тротуаре.", "en": "We dine late. Pizzerias are packed, the queue spills onto the pavement."}
+  ],
+  "holidays": [
+    {"m": 1, "d": 6, "name": {"ru": "Бефана", "en": "Befana"},
+     "text": {"ru": "Старушка Бефана приносит детям в чулке сладости, а непослушным — уголь. Уголь, правда, тоже сахарный.", "en": "Old Befana brings children sweets in a stocking, and coal to the naughty ones. Sugar coal, mind you."}},
+    {"m": 6, "d": 2, "name": {"ru": "День Республики", "en": "Republic Day"},
+     "text": {"ru": "Выходной, и все, кто может, уезжают к морю. Первый раз за лето лезешь в холодную воду и визжишь.", "en": "A day off, and whoever can goes to the sea. First swim of the summer, cold water, lots of shrieking."}},
+    {"m": 7, "d": 16, "name": {"ru": "Мадонна дель Кармине", "en": "Our Lady of Mount Carmel"},
+     "text": {"ru": "Вечером «поджигают» колокольню церкви Кармине: фейерверк такой, будто она горит. Вся площадь ахает.", "en": "In the evening the Carmine bell tower is “set on fire” — fireworks make it look ablaze. The whole square gasps."}},
+    {"m": 8, "d": 15, "name": {"ru": "Феррагосто", "en": "Ferragosto"},
+     "text": {"ru": "Город пустеет: все на море. Магазины закрыты, на улицах только туристы и коты.", "en": "The city empties: everyone is at the sea. Shops shut, only tourists and cats in the streets."}},
+    {"m": 9, "d": 19, "name": {"ru": "Сан-Дженнаро", "en": "San Gennaro"},
+     "text": {"ru": "В соборе ждут, разжижится ли кровь святого покровителя. Если да — год будет добрым, и все выдыхают.", "en": "In the cathedral we wait to see if our patron saint's blood liquefies. If it does, it'll be a good year, and everyone breathes out."}},
+    {"m": 11, "d": 1, "name": {"ru": "День всех святых", "en": "All Saints' Day"},
+     "text": {"ru": "Выходной. Семьи собираются за большим столом, и обед тянется до вечера.", "en": "A day off. Families gather round a big table and lunch lasts until evening."}},
+    {"m": 11, "d": 2, "name": {"ru": "День поминовения", "en": "All Souls' Day"},
+     "text": {"ru": "Поминают ушедших. В кондитерских продают «торроне дей морти» — шоколадный торроне, который бывает только в эти дни.", "en": "We remember those who have gone. Pastry shops sell “torrone dei morti”, a chocolate torrone you only find these days."}},
+    {"m": 12, "d": 8, "name": {"ru": "Непорочное зачатие", "en": "Immaculate Conception"},
+     "text": {"ru": "Наряжают ёлку и достают вертеп. У нас вертеп важнее ёлки, это знает каждый.", "en": "Up goes the tree and out comes the nativity scene. Here the presepe matters more than the tree, everyone knows."}},
+    {"m": 12, "d": 24, "name": {"ru": "Сочельник", "en": "Christmas Eve"},
+     "text": {"ru": "Только рыба. И обязательно угорь — капитоне. Его покупают живым, и он сбегает по кухне.", "en": "Fish only. And always eel — capitone. You buy it alive, and it escapes across the kitchen."}},
+    {"m": 12, "d": 31, "name": {"ru": "Канун Нового года", "en": "New Year's Eve"},
+     "text": {"ru": "Раньше в полночь выбрасывали из окон старые вещи. Теперь просто очень много петард. Ходи под балконами осторожно.", "en": "At midnight people used to throw old things out of the window. Now it's just a great many firecrackers. Mind the balconies."}}
+  ],
+  "neighbours": [
+    {"who": {"ru": "Кончетта, 4-й этаж", "en": "Concetta, fourth floor"},
+     "gift": {"ru": "Сфольятелла", "en": "A sfogliatella"},
+     "note": {"ru": "Ты новенький у Лючии? Держи сфольятеллу, пока тёплая. И скажи ей, что кот опять ел у неё на балконе, — пусть не врёт, что не кормит! Я сверху всё вижу.", "en": "You're Lucia's new one? Here, a sfogliatella, still warm. And tell her the cat was eating on her balcony again — she can stop pretending she doesn't feed it! I see everything from up here."},
+     "how": {"ru": "Корзинкой на верёвке — «панаро» — соседи передают друг другу всё: хлеб, ключи, газеты, новости. В старом доме без лифта так быстрее, чем по лестнице.", "en": "In a basket on a rope — 'o panaro — neighbours pass each other everything: bread, keys, newspapers, news. In an old building with no lift it beats the stairs."},
+     "sticker": "Sfogliatella"},
+    {"who": {"ru": "Дженнаро, 1-й этаж", "en": "Gennaro, first floor"},
+     "gift": {"ru": "Таралли с перцем и миндалём", "en": "Taralli with pepper and almonds"},
+     "note": {"ru": "Я Дженнаро, снизу. Сорок лет водил трамвай. Лючия велела за тобой присмотреть — вот таралли, ещё тёплые из пекарни. Вечером возьми пива и иди на Мерджеллину. Только ей не говори, что это я про пиво.", "en": "I'm Gennaro, from downstairs. Drove a tram for forty years. Lucia told me to keep an eye on you — here are taralli, still warm from the bakery. Tonight take a beer down to Mergellina. Just don't tell her the beer was my idea."},
+     "how": {"ru": "Таралли на сале, с чёрным перцем и миндалём — главная неаполитанская закуска. Летним вечером их едят с холодным пивом на набережной Мерджеллины, глядя на залив.", "en": "Taralli made with lard, black pepper and almonds are the Neapolitan snack. On summer evenings people eat them with cold beer on the Mergellina seafront, looking at the bay."},
+     "sticker": "Taralli"},
+    {"who": {"ru": "Ассунтина, 9 лет, из подъезда напротив", "en": "Assuntina, 9, from across the street"},
+     "gift": {"ru": "Ромовая баба", "en": "A rum babà"},
+     "note": {"ru": "Это бабушка Тереза прислала. Она говорит, в воскресенье с пустыми руками в гости не ходят, а ты у нас вроде как в гостях. Там внутри ром, мне нельзя. Нонна Лючия обещала мне пастушка из вертепа, если буду хорошо учиться.", "en": "Granny Teresa sent it. She says on Sunday you never visit empty-handed, and you're sort of our guest. There's rum inside, I'm not allowed. Nonna Lucia promised me a shepherd from the nativity if I do well at school."},
+     "how": {"ru": "По воскресеньям в Неаполе в гости идут с подносом пирожных из кондитерской — «гвантьерой»: баба, сфольятеллы, пастьера. Поднос заворачивают в бумагу и перевязывают лентой.", "en": "On Sundays in Naples you visit with a tray of pastries from the pasticceria — a guantiera: babà, sfogliatelle, pastiera. The tray comes wrapped in paper and tied with ribbon."},
+     "sticker": "Baba"}
+  ],
+  "days": [
+    {
+      "kitchen": {
+        "title": {"ru": "Паста с картошкой", "en": "Pasta with potatoes"},
+        "orig": "Pasta e patate con la provola",
+        "note": {"ru": "Это первое, что я готовлю, когда кто-то приезжает. Картошку режь мелко, макароны бери «мишту» — остатки из разных пачек, у нас её так и продают. Всё варится в одной кастрюле, воду подливай понемногу, как в ризотто, и не уходи — мешай! Проволу клади в самом конце, на выключенном огне, чтобы тянулась. Полчаса — и ужин на столе.", "en": "This is the first thing I cook when someone arrives. Dice the potatoes small, and use pasta mista — odds and ends from different packets, we even sell it that way. Everything goes in one pot; add water a little at a time, like risotto, and don't wander off — stir! The provola goes in last, heat off, so it strings. Half an hour and dinner's on the table."},
+        "ingr": {
+          "ru": ["картошка — 3 шт.", "короткие макароны — 250 г", "луковица, стебель сельдерея", "помидоры черри — 4 шт.", "корочка пармезана", "провола — 100 г"],
+          "en": ["3 potatoes", "250 g short pasta", "1 onion, 1 celery stick", "4 cherry tomatoes", "a parmesan rind", "100 g provola"]
+        },
+        "swaps": {
+          "ru": [["провола", "копчёный сулугуни"], ["паста мишта", "остатки любых коротких макарон"]],
+          "en": [["provola", "smoked mozzarella or scamorza"], ["pasta mista", "leftovers of any short pasta"]]
+        },
+        "sticker": "Pasta e patate"
+      },
+      "tv": {
+        "title": {"ru": "Рождество в доме Купьелло", "en": "Christmas at the Cupiellos'"},
+        "orig": "Natale in casa Cupiello",
+        "by": {"ru": "Эдуардо Де Филиппо, телеспектакль", "en": "Eduardo De Filippo, TV play"},
+        "year": "1977",
+        "note": {"ru": "Знаю, до Рождества далеко. Но посмотри — без этого нас не понять. Лука Купьелло каждый год строит вертеп и пристаёт к взрослому сыну: «Тебе нравится вертеп?» А тот назло: «Не нравится». Эту фразу у нас знает каждый ребёнок. Смешно до самого конца, а в конце я всё равно плачу.", "en": "I know, Christmas is a long way off. But watch it — you can't understand us without it. Every year Luca Cupiello builds his nativity scene and pesters his grown-up son: “Do you like the presepe?” And the boy, just to spite him: “No.” Every child here knows that line. It's funny right to the end, and at the end I cry anyway."},
+        "why": {"ru": "«Te piace 'o presepe?» — в Неаполе это говорят про что угодно, что делаешь с любовью, а другим не нравится.", "en": "“Te piace 'o presepe?” — in Naples we say it about anything you make with love that nobody else likes."},
+        "query": "Natale in casa Cupiello 1977",
+        "sticker": "Cupiello"
+      },
+      "record": {
+        "title": {"ru": "Terra mia", "en": "Terra mia"},
+        "orig": "Terra mia",
+        "by": {"ru": "Пино Даниэле", "en": "Pino Daniele"},
+        "year": "1977",
+        "kind": "album",
+        "note": {"ru": "Пино — наш, неаполитанец до костей. Начни с «Napule è»: это почти гимн города, только честнее — тут и тысяча красок, и грязная бумажка на ветру. Когда он умер в 2015-м, площадь Плебисцито была забита до краёв, и все пели его песни. Я тоже была там и тоже пела, хоть и фальшиво.", "en": "Pino is ours, Neapolitan to the bone. Start with “Napule è”: it's almost the city's anthem, only more honest — a thousand colours and a dirty scrap of paper in the wind. When he died in 2015, Piazza del Plebiscito was packed to the edges and everyone sang his songs. I was there too, singing, out of tune."},
+        "query": "Pino Daniele Terra mia",
+        "sticker": "Pino Daniele"
+      },
+      "books": {
+        "title": {"ru": "Сказка сказок", "en": "The Tale of Tales"},
+        "orig": "Lo cunto de li cunti",
+        "by": {"ru": "Джамбаттиста Базиле", "en": "Giambattista Basile"},
+        "year": "1634–1636",
+        "note": {"ru": "Золушка и Спящая красавица были у нас раньше, чем у француза Перро! Только наши злее и смешнее. Базиле писал по-неаполитански, но переводов полно, не бойся. Читай по одной сказке на ночь — их там пятьдесят, как раз на зиму.", "en": "We had Cinderella and Sleeping Beauty before that Frenchman Perrault! Only ours are nastier and funnier. Basile wrote in Neapolitan, but there are plenty of translations, don't worry. Read one tale a night — there are fifty, enough for a winter."},
+        "sticker": "Lo cunto"
+      },
+      "fact": {
+        "ru": "Caffè sospeso — «подвешенный кофе». Платишь в баре за две чашки, пьёшь одну. Вторая ждёт того, кому сейчас не по карману. Обычай неаполитанский, а теперь его переняли кофейни по всему миру.",
+        "en": "Caffè sospeso — “suspended coffee”. You pay for two at the bar and drink one. The second waits for someone who can't afford it right now. A Neapolitan custom that cafés around the world have since picked up."
+      },
+      "phrase": {
+        "say": "Uè!",
+        "latin": "",
+        "text": {"ru": "Привет! А ещё — удивление, окрик и «ну ты даёшь». Всё зависит от того, как сказать.", "en": "Hi! Also surprise, a shout across the street, and “well, look at you”. It all depends on how you say it."}
+      },
+      "rule": {
+        "ru": "Хлеб не клади коркой вниз — перевёрнутый хлеб к беде в доме. Смейся сколько хочешь, но переверни.",
+        "en": "Never leave bread upside down — it brings trouble to the house. Laugh all you like, but turn it over."
+      },
+      "letter": {
+        "ru": "Ключ ты нашёл, молодец. Располагайся. Постель свежая, полотенца в комоде: жёлтые — для гостей, белые не трогай, они парадные. Кот синьоры Пины со второго этажа будет приходить на балкон — я его НЕ кормлю, понятно? Сыр в нижнем ящике холодильника. Записки я разложила по всему дому, каждый день находи новые. Всё сразу не ищи, не жадничай.",
+        "en": "You found the key, good. Make yourself at home. The bed is fresh, towels are in the chest of drawers: yellow for guests, leave the white ones, they're for best. Signora Pina's cat from the second floor will come to the balcony — I do NOT feed him, understood? Cheese is in the bottom drawer of the fridge. I've left notes all over the house; find new ones every day. Don't hunt for them all at once, don't be greedy."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Генуэзе", "en": "Genovese"},
+        "orig": "La Genovese",
+        "note": {"ru": "Смешно, да? Называется «генуэзская», а в Генуе о ней никто не слышал. Откуда имя — спорят до сих пор. Лука бери столько же, сколько мяса, — да, килограмм на килограмм. Три часа на самом маленьком огне, пока лук не станет тёмным и мягким, как варенье. Дзити ломай руками — так положено. Это работа на субботу, не спеши.", "en": "Funny, isn't it? It's called “Genoese” and nobody in Genoa has heard of it. Where the name comes from, people still argue. As much onion as meat — yes, kilo for kilo. Three hours on the lowest flame, till the onion is dark and soft as jam. Break the ziti by hand — that's how it's done. A Saturday job, don't rush it."},
+        "ingr": {
+          "ru": ["говядина — 600 г", "лук — 600 г", "морковь, стебель сельдерея", "белое вино — стакан", "дзити — 400 г", "тёртый пекорино"],
+          "en": ["600 g beef", "600 g onions", "1 carrot, 1 celery stick", "a glass of white wine", "400 g ziti", "grated pecorino"]
+        },
+        "swaps": {
+          "ru": [["дзити", "толстые трубочки, разломать на 3–4 части"], ["пекорино", "любой твёрдый солёный сыр"]],
+          "en": [["ziti", "any thick tube pasta, broken in 3–4 pieces"], ["pecorino", "any hard salty cheese"]]
+        },
+        "sticker": "Genovese"
+      },
+      "tv": {
+        "title": {"ru": "Золото Неаполя", "en": "The Gold of Naples"},
+        "orig": "L'oro di Napoli",
+        "by": {"ru": "Витторио Де Сика", "en": "Vittorio De Sica"},
+        "year": "1954",
+        "note": {"ru": "Тут несколько новелл, смотри ту, где Софи Лорен продаёт пиццу «на восьмой день»: ешь сегодня, платишь через восемь дней. Так правда было, моя мать так покупала. А Лорен выросла здесь, в Поццуоли, и говорит как наша. Посмотри, как она ругает мужа, — вылитая Кончетта.", "en": "It's several stories; watch the one where Sophia Loren sells pizza “a oggi a otto”: eat today, pay in eight days. That really happened — my mother bought pizza that way. And Loren grew up round here, in Pozzuoli, and she talks like one of us. Watch her scold her husband — Concetta to the life."},
+        "why": {"ru": "Пиццу «на восьмой день» до сих пор вспоминают как знак города, где своих выручают даже в долг, а Лорен у нас считают своей.", "en": "Pizza on eight days' credit is still remembered as the sign of a city that helps its own out even on tick, and Loren counts as one of us."},
+        "query": "L'oro di Napoli De Sica",
+        "sticker": "L'oro di Napoli"
+      },
+      "record": {
+        "title": {"ru": "Tu vuò fà l'americano", "en": "Tu vuò fà l'americano"},
+        "orig": "Tu vuò fà l'americano",
+        "by": {"ru": "Ренато Карозоне", "en": "Renato Carosone"},
+        "year": "1956",
+        "kind": "song",
+        "note": {"ru": "Песенка про парня, который пьёт виски с содовой и строит из себя американца, а деньги на сигареты берёт из маминой сумочки. Мы смеёмся над собой — это мы умеем лучше всех. Её потом пели даже в «Талантливом мистере Рипли», но Карозоне лучше.", "en": "A little song about a lad who drinks whisky and soda and plays the American, but gets his cigarette money from his mum's handbag. We laugh at ourselves — nobody does it better. They even sang it later in “The Talented Mr Ripley”, but Carosone does it best."},
+        "query": "Renato Carosone Tu vuò fà l'americano",
+        "sticker": "Carosone"
+      },
+      "books": {
+        "title": {"ru": "Моя гениальная подруга", "en": "My Brilliant Friend"},
+        "orig": "L'amica geniale",
+        "by": {"ru": "Элена Ферранте", "en": "Elena Ferrante"},
+        "year": "2011",
+        "note": {"ru": "Это про бедный неаполитанский квартал, только на другом конце города. Двух таких девчонок, как Лила и Лену, я знала. Одна из них — я, а какая — не скажу. Начнёшь — не оторвёшься. Там четыре книги, бери сразу все, а то будешь бегать в магазин по ночам.", "en": "It's about a poor Neapolitan neighbourhood, just on the other side of town. I knew two girls just like Lila and Lenù. One of them was me, and I won't say which. Once you start you won't stop. There are four books — take them all at once, or you'll be running to the shop at night."},
+        "sticker": "Ferrante"
+      },
+      "fact": {
+        "ru": "«Сморфия» — неаполитанский сонник для лотереи. Каждому сну — число от 1 до 90. 90 — страх, 33 — годы Христа, а если приснилась покойная тётя, ставь на 48: «мертвец, который говорит».",
+        "en": "The smorfia is the Neapolitan dream book for the lottery. Every dream has a number from 1 to 90. 90 is fear, 33 is Christ's age, and if your late aunt visits you in a dream, bet on 48: “the dead man who talks”."
+      },
+      "phrase": {
+        "say": "Jamme jà!",
+        "latin": "",
+        "text": {"ru": "«Ну пошли же!» — и чтобы позвать, и чтобы подбодрить. Помнишь «Фуникули-фуникула»? «Jammo, jammo, 'ncoppa jammo jà» — это оно.", "en": "“Come on, let's go!” — to call someone or cheer them on. Remember “Funiculì, Funiculà”? “Jammo, jammo, 'ncoppa jammo jà” — that's the one."}
+      },
+      "rule": {
+        "ru": "Капучино — только утром. Закажешь после обеда — бармен промолчит, но подумает.",
+        "en": "Cappuccino is for the morning only. Order one after lunch and the barman will say nothing, but he'll think it."
+      },
+      "letter": {
+        "ru": "Мой Тото каждый декабрь ходил на виа Сан-Грегорио-Армено за новой фигуркой для вертепа. За сорок лет набралось сто двенадцать: пастухи, рыбаки, торговка каштанами, даже футболист. Я ворчала, что их некуда ставить, а теперь сама каждый год их достаю. Пастух с отбитой рукой — первый. Найдёшь в шкафу — не выбрасывай, это самое дорогое, что у меня есть.",
+        "en": "Every December my Totò went down Via San Gregorio Armeno for a new nativity figure. In forty years there were a hundred and twelve: shepherds, fishermen, a chestnut seller, even a footballer. I grumbled there was nowhere to put them, and now I'm the one who gets them out every year. The shepherd with the broken arm was the first. If you find him in the cupboard, don't throw him away — he's the most precious thing I own."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Фриттата из макарон", "en": "Pasta frittata"},
+        "orig": "Frittata di maccheroni",
+        "note": {"ru": "Что осталось от вчерашних макарон — на сковородку с яйцами и сыром, и пусть с двух сторон будет корочка. Переворачивай на тарелке, не геройствуй. Её едят холодной на пляже, прямо руками. Нет ничего лучше в августе на Марекьяро. Двадцать минут — и обед готов.", "en": "Whatever's left of yesterday's pasta goes in the pan with eggs and cheese, with a crust on both sides. Flip it using a plate, don't be a hero. We eat it cold on the beach, with our hands. Nothing better in August at Marechiaro. Twenty minutes and lunch is done."},
+        "ingr": {
+          "ru": ["вчерашние макароны — 300 г", "яйца — 4 шт.", "тёртый сыр — 60 г", "чёрный перец", "оливковое масло"],
+          "en": ["300 g leftover pasta", "4 eggs", "60 g grated cheese", "black pepper", "olive oil"]
+        },
+        "swaps": {
+          "ru": [["спагетти", "любые вчерашние макароны, даже с соусом"]],
+          "en": [["spaghetti", "any leftover pasta, even with sauce"]]
+        },
+        "sticker": "Frittata"
+      },
+      "tv": {
+        "title": {"ru": "Так говорил Беллависта", "en": "Thus Spoke Bellavista"},
+        "orig": "Così parlò Bellavista",
+        "by": {"ru": "Лучано Де Крешенцо", "en": "Luciano De Crescenzo"},
+        "year": "1984",
+        "note": {"ru": "Профессор-философ объясняет, что люди бывают «любви» и «свободы». Неаполитанцы — люди любви: им тесно, шумно, все лезут в чужие дела, и им хорошо. А к нему в дом въезжает начальник из Милана, человек свободы. Мой Тото знал этот фильм наизусть.", "en": "A professor-philosopher explains that people are either “of love” or “of freedom”. Neapolitans are people of love: crowded, noisy, all in each other's business, and happy. Then a manager from Milan, a man of freedom, moves into his building. My Totò knew the film by heart."},
+        "why": {"ru": "Цитаты из «Беллависты» в Неаполе вставляют в разговор как пословицы, а про «людей любви» спорят до сих пор.", "en": "In Naples lines from “Bellavista” go into conversation like proverbs, and people still argue about “men of love”."},
+        "query": "Così parlò Bellavista",
+        "sticker": "Bellavista"
+      },
+      "record": {
+        "title": {"ru": "Anema e core", "en": "Anema e core"},
+        "orig": "Anema e core",
+        "by": {"ru": "Роберто Муроло", "en": "Roberto Murolo"},
+        "year": "",
+        "kind": "song",
+        "note": {"ru": "«Душой и сердцем». Под неё мы с Тото танцевали на свадьбе. Муроло пел тихо, почти шёпотом, под одну гитару, — так поют, когда любят по-настоящему. Поставь вечером, открой балкон и ничего не делай три минуты. Даже посуду не мой.", "en": "“With soul and heart.” Totò and I danced to it at our wedding. Murolo sang softly, almost a whisper, with just a guitar — that's how you sing when you truly love. Put it on in the evening, open the balcony and do nothing for three minutes. Not even the dishes."},
+        "query": "Roberto Murolo Anema e core",
+        "sticker": "Anema e core"
+      },
+      "books": {
+        "title": {"ru": "Обручённые", "en": "The Betrothed"},
+        "orig": "I promessi sposi",
+        "by": {"ru": "Алессандро Мандзони", "en": "Alessandro Manzoni"},
+        "year": "1827",
+        "note": {"ru": "Школьная программа — мучились все: я, дочка, внук. Зато каждый итальянец знает фразу «Этой свадьбе не бывать». Прочитай хоть первую главу, про озеро Комо и двух бандитов на дороге, — поймёшь, над чем у нас шутят. Дальше — как пойдёт, я не обижусь.", "en": "School syllabus — we all suffered: me, my daughter, my grandson. But every Italian knows the line “This marriage is not to be.” Read at least the first chapter, the lake of Como and the two thugs on the road — you'll get what we joke about. After that, as you like; I won't be offended."},
+        "sticker": "Promessi sposi"
+      },
+      "fact": {
+        "ru": "Под Неаполем — второй город: греческие и римские каменоломни, старые цистерны водопровода, ходы. В войну там прятались от бомбёжек целыми кварталами. Часть можно обойти с экскурсией.",
+        "en": "Beneath Naples lies a second city: Greek and Roman quarries, old aqueduct cisterns, tunnels. In the war whole neighbourhoods sheltered there from the bombing. You can walk part of it on a tour."
+      },
+      "phrase": {
+        "say": "Nun te preoccupà.",
+        "latin": "",
+        "text": {"ru": "«Не переживай». Говорят, когда всё плохо и когда всё отлично. Обычно с рукой на плече.", "en": "“Don't worry.” Said when everything's terrible and when everything's fine. Usually with a hand on your shoulder."}
+      },
+      "rule": {
+        "ru": "Шляпу на кровать не клади — это к покойнику. Да, я серьёзно.",
+        "en": "Don't put a hat on the bed — it means a death. Yes, I'm serious."
+      },
+      "letter": {
+        "ru": "Когда «Наполи» в 1987-м впервые взял скудетто, кто-то повесил у кладбищенской стены плакат: «Ребята, вы не знаете, что пропустили!» Весь город плакал и смеялся одновременно. Тото в ту ночь залез на фонарь на нашей площади, а я стояла внизу и кричала, чтобы слезал. Не слез до утра. Это и есть Неаполь.",
+        "en": "When Napoli won the league for the first time in 1987, someone hung a banner by the cemetery wall: “Lads, you don't know what you missed!” The whole city laughed and cried at once. That night Totò climbed a lamp post in our square, and I stood below shouting at him to come down. He stayed up there till morning. That's Naples."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Монтанара — жареная пицца", "en": "Montanara — fried pizza"},
+        "orig": "Montanara",
+        "note": {"ru": "В Неаполе пиццу не только пекут, но и жарят. Маленькие лепёшки из теста — в горячее масло, они раздуваются, как подушки. Сверху ложку томатного соуса, тёртый сыр и лист базилика. На улице такие продают в бумажке, а дома их делают, когда остаётся тесто. Ешь сразу и обжигайся — остывшая уже не то.", "en": "In Naples pizza isn't only baked, it's fried too. Little rounds of dough into hot oil, and they puff up like pillows. On top, a spoon of tomato sauce, grated cheese and a basil leaf. On the street they sell them in a twist of paper; at home we make them when there's dough left over. Eat them at once and burn your mouth — cold, it's not the same."},
+        "ingr": {
+          "ru": ["мука — 500 г", "тёплая вода — 300 мл", "сухие дрожжи — 1 ч. л.", "соль — 2 ч. л.", "томатная пассата — 200 г", "тёртый пармезан, базилик", "масло для жарки — 1 л"],
+          "en": ["500 g flour", "300 ml warm water", "1 tsp dried yeast", "2 tsp salt", "200 g tomato passata", "grated parmesan, basil", "1 l frying oil"]
+        },
+        "swaps": {
+          "ru": [["мука типа 00", "обычная пшеничная мука высшего сорта"], ["пассата", "протёртые помидоры из банки"]],
+          "en": [["Italian 00 flour", "plain white flour"], ["passata", "tinned crushed tomatoes"]]
+        },
+        "sticker": "Montanara"
+      },
+      "tv": {
+        "title": {"ru": "Брак по-итальянски", "en": "Marriage Italian Style"},
+        "orig": "Matrimonio all'italiana",
+        "by": {"ru": "Витторио Де Сика", "en": "Vittorio De Sica"},
+        "year": "1964",
+        "note": {"ru": "Это по пьесе нашего Эдуардо «Филумена Мартурано». Двадцать лет Филумена живёт с Доменико, а он всё не женится. Тогда она притворяется умирающей… А потом признаётся: у неё трое сыновей, и один из них — его, а который, не скажет. Лорен и Мастроянни — лучше не бывает. Тото смеялся, а я была за Филумену.", "en": "It's from our Eduardo's play “Filumena Marturano”. Filumena has lived with Domenico for twenty years and he still won't marry her. So she pretends to be dying… Then she confesses: she has three sons, one of them is his, and she won't say which. Loren and Mastroianni — it doesn't get better. Totò laughed; I was on Filumena's side."},
+        "why": {"ru": "Филумену у нас знают все: пьесу Эдуардо играют до сих пор, а фильм крутят по телевизору снова и снова. «Дети есть дети» — так и говорят.", "en": "Everyone here knows Filumena: Eduardo's play is still staged and the film is on TV again and again. “Children are children,” we still say."},
+        "query": "Matrimonio all'italiana 1964",
+        "sticker": "Filumena"
+      },
+      "record": {
+        "title": {"ru": "'O surdato 'nnammurato", "en": "'O surdato 'nnammurato"},
+        "orig": "'O surdato 'nnammurato",
+        "by": {"ru": "Аньелло Калифано и Энрико Канньо", "en": "Aniello Califano and Enrico Cannio"},
+        "year": "1915",
+        "kind": "song",
+        "note": {"ru": "«Влюблённый солдат». Её написали в Первую мировую: солдат на фронте поёт любимой «Ты жизнь моя». А теперь её поёт весь стадион «Наполи», руки вверх. И на свадьбах, когда все уже выпили. Слушай Массимо Раньери, у него лучше всех. Только громко!", "en": "“The soldier in love.” Written during the First World War: a soldier at the front sings to his girl, “Oh my life.” Now the whole Napoli stadium sings it, arms in the air. And at weddings, once everyone's had a drink. Listen to Massimo Ranieri, he sings it best. Loud, mind!"},
+        "query": "O surdato nnammurato Massimo Ranieri",
+        "sticker": "Surdato"
+      },
+      "books": {
+        "title": {"ru": "Чрево Неаполя", "en": "The Belly of Naples"},
+        "orig": "Il ventre di Napoli",
+        "by": {"ru": "Матильда Серао", "en": "Matilde Serao"},
+        "year": "1884",
+        "note": {"ru": "Серао была журналисткой и вместе с мужем основала газету «Иль Маттино» — я её читаю до сих пор. В 1884-м, после холеры, из Рима сказали, что Неаполь надо «выпотрошить». А она ответила книгой: сначала загляните ему в чрево. Рынки, лотерея, ростовщики, бедняки — всё наше. Читается как газета, за вечер.", "en": "Serao was a journalist and, with her husband, founded “Il Mattino” — I still read it. In 1884, after the cholera, Rome said Naples had to be “gutted”. She answered with a book: first look into its belly. Markets, the lottery, moneylenders, the poor — all ours. Reads like a newspaper, in one evening."},
+        "sticker": "Serao"
+      },
+      "fact": {
+        "ru": "Театр Сан-Карло открыли в 1737 году — на сорок лет раньше миланской Ла Скала. Это старейший оперный театр Европы, который работает до сих пор.",
+        "en": "The Teatro di San Carlo opened in 1737 — forty years before La Scala in Milan. It is the oldest opera house in Europe still in use."
+      },
+      "phrase": {
+        "say": "Facimme ammuina!",
+        "latin": "",
+        "text": {"ru": "«Устроим суматоху». Аммуина — шум и неразбериха, когда все бегают и кричат, а дела не видно. Так говорят про любые сборы: свадьбу, переезд, мою кухню перед Рождеством.", "en": "“Let's make a commotion.” Ammuina is noise and confusion, everyone running and shouting with nothing getting done. Said of any big fuss: a wedding, a house move, my kitchen before Christmas."}
+      },
+      "rule": {
+        "ru": "Красный рожок-амулет себе не покупают — его должны подарить, иначе не работает. Один висит над дверью. Не снимай.",
+        "en": "You never buy yourself the little red horn charm — it has to be a gift, or it won't work. There's one over the door. Leave it be."
+      },
+      "letter": {
+        "ru": "Дочку мою зовут Розария. Она уехала в Турин тридцать лет назад, работала на заводе, потом выучилась на бухгалтера. Муж у неё пьемонтец, хороший, только ужинает в семь и говорит тихо. Внук Марко каждое лето зовёт меня к себе, а я всё отказывалась: кто будет поливать базилик? В этот раз сказала «да». Так что базилик теперь на тебе. Поливай вечером, не днём.",
+        "en": "My daughter is called Rosaria. She moved to Turin thirty years ago, worked in a factory, then trained as an accountant. Her husband is from Piedmont, a good man, only he has dinner at seven and talks quietly. Every summer my grandson Marco asks me to come, and I always said no: who'd water the basil? This time I said yes. So the basil is yours now. Water it in the evening, not in the day."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Спагетти путтанеска", "en": "Spaghetti alla puttanesca"},
+        "orig": "Spaghetti alla puttanesca",
+        "note": {"ru": "Двадцать минут — пока варятся спагетти. Чеснок в масло, потом помидоры, чёрные маслины, каперсы — их сначала промой от соли. Анчоусы кто-то кладёт, а у меня в доме — никогда. Название неприличное, откуда оно — толком никто не знает. Не спрашивай Кончетту, она расскажет три версии и все неправда.", "en": "Twenty minutes — the time the spaghetti takes. Garlic in oil, then tomatoes, black olives, capers — rinse the salt off them first. Some people add anchovies; never in my house. The name is rude, and nobody really knows where it came from. Don't ask Concetta, she'll tell you three stories and none of them true."},
+        "ingr": {
+          "ru": ["спагетти — 320 г", "помидоры черри или из банки — 400 г", "чёрные маслины — 80 г", "каперсы — 1 ст. л.", "чеснок — 2 зубчика", "оливковое масло, петрушка"],
+          "en": ["320 g spaghetti", "400 g cherry or tinned tomatoes", "80 g black olives", "1 tbsp capers", "2 garlic cloves", "olive oil, parsley"]
+        },
+        "swaps": {
+          "ru": [["маслины из Гаэты", "любые чёрные маслины с косточкой"], ["каперсы в соли", "каперсы в маринаде"]],
+          "en": [["Gaeta olives", "any black olives with stones"], ["salted capers", "capers in brine"]]
+        },
+        "sticker": "Puttanesca"
+      },
+      "tv": {
+        "title": {"ru": "Приключения Пиноккио", "en": "The Adventures of Pinocchio"},
+        "orig": "Le avventure di Pinocchio",
+        "by": {"ru": "Луиджи Коменчини, телесериал", "en": "Luigi Comencini, TV series"},
+        "year": "1972",
+        "note": {"ru": "Джеппетто тут играет Нино Манфреди, а Фею — Джина Лоллобриджида. Мы с дочкой смотрели вместе, она пряталась за диван, когда Пиноккио становился ослом. Смотри с платком: там, где Джеппетто и Пиноккио находят друг друга в брюхе огромной рыбы, плачут все, даже Тото плакал.", "en": "Nino Manfredi plays Geppetto and Gina Lollobrigida the Fairy. My daughter and I watched it together; she hid behind the sofa when Pinocchio turned into a donkey. Have a hankie ready: when Geppetto and Pinocchio find each other in the belly of the giant fish, everyone cries — even Totò did."},
+        "why": {"ru": "Его повторяли столько раз, что для итальянцев Джеппетто навсегда с лицом Манфреди, а Фея — с лицом Лоллобриджиды.", "en": "It's been repeated so often that for Italians Geppetto will always have Manfredi's face, and the Fairy Lollobrigida's."},
+        "query": "Le avventure di Pinocchio Comencini",
+        "sticker": "Pinocchio"
+      },
+      "record": {
+        "title": {"ru": "'O sole mio", "en": "'O sole mio"},
+        "orig": "'O sole mio",
+        "by": {"ru": "Эдуардо Ди Капуа и Джованни Капурро", "en": "Eduardo Di Capua and Giovanni Capurro"},
+        "year": "1898",
+        "kind": "song",
+        "note": {"ru": "Её поют во всём мире и думают, что она итальянская. А она неаполитанская, на нашем языке. И «моё солнце» тут вовсе не на небе, а в лице любимой. Послушай Карузо — запись старая, с треском, а пробирает. Потом услышишь её из чьего-нибудь окна: у нас её поют даже в ванной.", "en": "The whole world sings it and thinks it's Italian. But it's Neapolitan, in our own tongue. And “my sun” isn't in the sky at all — it's in your sweetheart's face. Listen to Caruso: an old recording, all crackle, and it still gets you. Then you'll hear it from someone's window — here people sing it in the bath."},
+        "query": "O sole mio Enrico Caruso",
+        "sticker": "O sole mio"
+      },
+      "books": {
+        "title": {"ru": "Сказки по телефону", "en": "Telephone Tales"},
+        "orig": "Favole al telefono",
+        "by": {"ru": "Джанни Родари", "en": "Gianni Rodari"},
+        "year": "1962",
+        "note": {"ru": "Синьор Бьянки всю неделю в разъездах, а каждый вечер звонит дочке и рассказывает сказку — коротко, потому что звонок за свой счёт. Я так внуку в Турин читала по телефону, когда он был маленький. Родари ведь и у вас знают, правда? Чиполлино — тоже его.", "en": "Signor Bianchi travels all week, and every evening he phones his daughter and tells her a story — a short one, since he pays for the call. I read them to my grandson in Turin over the phone when he was little. You know Rodari where you're from too, don't you? Cipollino is his as well."},
+        "sticker": "Rodari"
+      },
+      "fact": {
+        "ru": "Искусство неаполитанского пиццайоло с 2017 года в списке нематериального наследия ЮНЕСКО. А «Маргариту», по преданию, испекли в 1889-м для королевы Маргариты: красный, белый, зелёный — как флаг.",
+        "en": "Since 2017 the art of the Neapolitan pizzaiuolo has been on UNESCO's intangible heritage list. And the Margherita, so the story goes, was baked in 1889 for Queen Margherita: red, white and green, like the flag."
+      },
+      "phrase": {
+        "say": "Mannaggia!",
+        "latin": "",
+        "text": {"ru": "«Вот досада!», «Чёрт побери!» Ругательство для приличных людей: уронила яйцо, ушёл автобус, «Наполи» пропустил гол.", "en": "“Drat!”, “Damn it!” The swear word for decent people: dropped an egg, missed the bus, Napoli let in a goal."}
+      },
+      "rule": {
+        "ru": "Водой не чокаются — это к беде. Не пьёшь вина — возьми хоть сок, но с пустой водой бокал не поднимай.",
+        "en": "Never toast with water — it's bad luck. If you don't drink wine, take juice, but don't raise a glass of plain water."
+      },
+      "letter": {
+        "ru": "Мы с Тото познакомились в шестьдесят шестом, шестнадцатого июля, на празднике Мадонны дель Кармине, когда «поджигают» колокольню. Он прижимал к груди глиняного пастушка и боялся, что в толпе его раздавят. Я засмеялась, он обиделся, я толкнула его локтем — и у пастушка откололась рука. Через год мы поженились. Да, тот самый пастух. Руку отбила я.",
+        "en": "Totò and I met in '66, on the sixteenth of July, at the feast of the Madonna del Carmine, when they “set fire” to the bell tower. He was clutching a clay shepherd to his chest, afraid the crowd would crush it. I laughed, he took offence, I elbowed him — and the shepherd's arm snapped off. A year later we were married. Yes, that shepherd. I'm the one who broke his arm."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Струффоли", "en": "Struffoli"},
+        "orig": "Struffoli",
+        "note": {"ru": "Это рождественское, но я их делаю, когда скучаю. Тесто катают колбасками и режут на шарики с горошину, жарят понемногу, потом — в горячий мёд. Выкладывают горкой или венком, сверху цукаты и цветная посыпка. Катать надо вдвоём, а лучше вчетвером, иначе до ночи. Неделю стоят, если спрятать.", "en": "They're for Christmas, but I make them when I'm missing someone. Roll the dough into ropes, cut it into pea-sized balls, fry a few at a time, then into hot honey. Pile them in a mound or a ring, with candied peel and sprinkles on top. Rolling takes two people, better four, or you'll be at it till midnight. They keep a week, if you hide them."},
+        "ingr": {
+          "ru": ["мука — 400 г", "яйца — 4 шт.", "сахар — 1 ст. л.", "сливочное масло — 50 г", "цедра апельсина", "мёд — 250 г", "цукаты, цветная посыпка", "масло для жарки"],
+          "en": ["400 g flour", "4 eggs", "1 tbsp sugar", "50 g butter", "zest of an orange", "250 g honey", "candied peel, sprinkles", "oil for frying"]
+        },
+        "swaps": {
+          "ru": [["цукаты из цитрона и тыквы", "любые цукаты или мелко нарезанная курага"], ["цветная посыпка", "тёртая цедра"]],
+          "en": [["candied citron and pumpkin", "any candied peel or chopped dried apricots"], ["sprinkles", "grated zest"]]
+        },
+        "sticker": "Struffoli"
+      },
+      "tv": {
+        "title": {"ru": "Нам остаётся только плакать", "en": "Nothing Left to Do but Cry"},
+        "orig": "Non ci resta che piangere",
+        "by": {"ru": "Роберто Бениньи и Массимо Троизи", "en": "Roberto Benigni and Massimo Troisi"},
+        "year": "1984",
+        "note": {"ru": "Учитель и школьный сторож застревают у железнодорожного переезда и просыпаются в 1492 году. Решают остановить Колумба, пишут письмо Савонароле, ругаются с таможней. Троизи — наш, из Сан-Джорджо-а-Кремано, говорит так, что половины не разобрать, но смешно до слёз.", "en": "A teacher and a school caretaker get stuck at a level crossing and wake up in 1492. They decide to stop Columbus, write a letter to Savonarola, fight with a customs man. Troisi is ours, from San Giorgio a Cremano; you can't follow half of what he says, but you'll cry laughing."},
+        "why": {"ru": "«Кто вы? Что везёте? Сколько вас? Флорин!» — эту сцену с таможней знают наизусть, а «Флорин!» говорят про любой глупый побор.", "en": "“Who are you? What are you carrying? How many of you? A florin!” — everyone knows the customs scene by heart, and “A florin!” is said of any silly charge."},
+        "query": "Non ci resta che piangere",
+        "sticker": "Un fiorino"
+      },
+      "record": {
+        "title": {"ru": "Nu jeans e 'na maglietta", "en": "Nu jeans e 'na maglietta"},
+        "orig": "Nu jeans e 'na maglietta",
+        "by": {"ru": "Нино Д'Анджело", "en": "Nino D'Angelo"},
+        "year": "",
+        "kind": "song",
+        "note": {"ru": "«Джинсы да майка» — песня про первую любовь мальчишки, у которого больше ничего нет. Нино Д'Анджело — паренёк из Сан-Пьетро-а-Патьерно с белой чёлкой «под горшок». В восьмидесятые моя дочка ходила с такой же стрижкой, я чуть с ума не сошла. Теперь он поёт серьёзные вещи, а мы всё равно ждём эту.", "en": "“Jeans and a T-shirt” — a song about first love from a boy who owns nothing else. Nino D'Angelo is a lad from San Pietro a Patierno with a blond pudding-bowl fringe. In the eighties my daughter wore her hair just like him, and I nearly lost my mind. These days he sings serious songs, but we still wait for this one."},
+        "query": "Nino D'Angelo Nu jeans e 'na maglietta",
+        "sticker": "Nino D'Angelo"
+      },
+      "books": {
+        "title": {"ru": "Монтедидио", "en": "God's Mountain"},
+        "orig": "Montedidio",
+        "by": {"ru": "Эрри Де Лука", "en": "Erri De Luca"},
+        "year": "2001",
+        "note": {"ru": "Мальчику тринадцать, ему подарили бумеранг, и он учится столярному делу в мастерской в квартале Монтедидио, это рядом с нами, на горе. Пишет обо всём на длинном рулоне бумаги — по-итальянски, потому что неаполитанский для него язык, на котором говорят, а не пишут. Книжка тонкая, на один вечер.", "en": "The boy is thirteen; he's been given a boomerang and he's learning carpentry in a workshop in Montedidio, a quarter up the hill not far from us. He writes everything on a long roll of paper — in Italian, because to him Neapolitan is a language you speak, not write. A thin book, one evening's reading."},
+        "sticker": "Montedidio"
+      },
+      "fact": {
+        "ru": "В Неаполе четыре фуникулёра: город стоит на холмах, и на Вомеро ездят, как на метро. А «Фуникули-фуникула» написали в 1880 году к открытию фуникулёра на Везувий.",
+        "en": "Naples has four funiculars: the city is built on hills, and people ride up to Vomero as if it were the metro. And “Funiculì, Funiculà” was written in 1880 for the opening of the funicular up Vesuvius."
+      },
+      "phrase": {
+        "say": "Scurdammoce 'o passato.",
+        "latin": "",
+        "text": {"ru": "«Забудем, что было». Строчка из старой песни, а говорят её после любой ссоры: кто старое помянет… И сразу наливают.", "en": "“Let's forget the past.” A line from an old song, said after any quarrel: let bygones be bygones… and then someone pours a drink."}
+      },
+      "rule": {
+        "ru": "Тринадцать человек за стол не садятся. Пришёл тринадцатый — зовите четырнадцатого, хоть кота.",
+        "en": "Thirteen never sit down at table. If a thirteenth turns up, call a fourteenth — the cat, if need be."
+      },
+      "letter": {
+        "ru": "Ладно, признаюсь. Кота зовут Пеппино, и я его кормлю. Каждый день, в семь вечера, на балконе. Синьора Пина посадила его на диету, а я не могу смотреть, как он плачет под дверью. Кончетта знает, весь подъезд знает, одна Пина не знает. Корм в коробке из-под туфель под раковиной. Насыпь полблюдечка — и никому ни слова, что это я тебя попросила.",
+        "en": "All right, I confess. The cat is called Peppino and I feed him. Every day, at seven in the evening, on the balcony. Signora Pina put him on a diet, and I can't bear to watch him crying at the door. Concetta knows, the whole building knows, only Pina doesn't. The food is in a shoebox under the sink. Half a saucer — and not a word to anyone that I asked you."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Неаполитанское рагу", "en": "Neapolitan ragù"},
+        "orig": "'O rraù",
+        "note": {"ru": "Воскресенье — значит, рагу. Не болонское: у нас мясо кладут целыми кусками и томят с утра, пока соус не потемнеет и не начнёт «пиппиаре» — булькать по одному пузырьку. Сначала едят пасту с соусом, потом мясо, вторым. Поставь в восемь утра — к двум будет готово. Вот так и попрощаешься с Неаполем.", "en": "Sunday means ragù. Not the Bolognese kind: we put the meat in whole and simmer it from morning, till the sauce goes dark and starts to “pippiare” — to blip one bubble at a time. First the pasta with the sauce, then the meat as a second course. Start at eight in the morning and it's ready by two. That's how you say goodbye to Naples."},
+        "ingr": {
+          "ru": ["говядина куском — 800 г", "свиные рёбрышки — 400 г", "луковица", "красное вино — стакан", "томатная пассата — 1,5 л", "паста зити или паккери — 500 г", "базилик, оливковое масло"],
+          "en": ["800 g beef in one piece", "400 g pork ribs", "1 onion", "a glass of red wine", "1.5 l tomato passata", "500 g ziti or paccheri", "basil, olive oil"]
+        },
+        "swaps": {
+          "ru": [["паккери", "любые крупные трубочки"], ["пассата", "протёртые помидоры из банки"]],
+          "en": [["paccheri", "any large tube pasta"], ["passata", "tinned crushed tomatoes"]]
+        },
+        "sticker": "Ragu"
+      },
+      "tv": {
+        "title": {"ru": "Рука бога", "en": "The Hand of God"},
+        "orig": "È stata la mano di Dio",
+        "by": {"ru": "Паоло Соррентино", "en": "Paolo Sorrentino"},
+        "year": "2021",
+        "note": {"ru": "Соррентино снял это про своё неаполитанское детство, восьмидесятые, когда к нам приехал Марадона. Тётки, обеды на природе, ссоры за столом, море — вся моя молодость. Местами смешно, местами грустно, но смотри до конца. И потом выйди на балкон и посмотри на залив.", "en": "Sorrentino made it about his own Neapolitan childhood, the eighties, when Maradona came to us. Aunties, lunches outdoors, rows at the table, the sea — my whole youth. Funny in places, sad in places, but watch to the end. Then go out on the balcony and look at the bay."},
+        "why": {"ru": "Фильм выдвигали на «Оскар», а неаполитанцы узнали в нём своих родственников. Название — про гол Марадоны рукой в 1986-м.", "en": "It was nominated for an Oscar, and Neapolitans recognised their own relatives in it. The title is Maradona's handball goal of 1986."},
+        "query": "È stata la mano di Dio",
+        "sticker": "Mano di Dio"
+      },
+      "record": {
+        "title": {"ru": "I p' me, tu p' te", "en": "I p' me, tu p' te"},
+        "orig": "I p' me, tu p' te",
+        "by": {"ru": "Джелиер", "en": "Geolier"},
+        "year": "2024",
+        "kind": "song",
+        "note": {"ru": "Это мне внук прислал: «Нонна, послушай, это наш!» Джелиер — парень из Секондильяно, читает рэп по-неаполитански. В 2024-м с этой песней занял второе место в Сан-Ремо, и весь город за него болел, как за «Наполи». Я половину не поняла, но мне понравилось: наш язык живой.", "en": "My grandson sent me this: “Nonna, listen, he's one of ours!” Geolier is a lad from Secondigliano who raps in Neapolitan. In 2024 this song came second at Sanremo, and the whole city rooted for him like for Napoli. I didn't get half of it, but I liked it: our language is alive."},
+        "query": "Geolier I p' me tu p' te",
+        "sticker": "Geolier"
+      },
+      "books": {
+        "title": {"ru": "Стихи Эдуардо", "en": "Eduardo's Poems"},
+        "orig": "Le poesie di Eduardo",
+        "by": {"ru": "Эдуардо Де Филиппо", "en": "Eduardo De Filippo"},
+        "year": "",
+        "note": {"ru": "Эдуардо писал не только пьесы, но и стихи. Найди «'O rraù»: муж жалуется, что настоящее рагу умела готовить только мама, а у жены выходит просто мясо с помидорами. Тото читал мне его каждое воскресенье, чтобы подразнить. Прочти вслух, даже если не понимаешь ни слова, — звучит вкусно.", "en": "Eduardo wrote poems as well as plays. Find “'O rraù”: a husband grumbles that only his mother could make a real ragù, and his wife's is just meat with tomatoes. Totò read it to me every Sunday to tease me. Read it aloud even if you don't understand a word — it sounds delicious."},
+        "sticker": "Eduardo"
+      },
+      "fact": {
+        "ru": "Городской стадион с 2020 года носит имя Диего Армандо Марадоны. А в Испанских кварталах на стене дома с 1990-го его огромный портрет — туда до сих пор ходят, как в музей.",
+        "en": "Since 2020 the city stadium has carried the name of Diego Armando Maradona. And in the Quartieri Spagnoli his huge portrait has been on a house wall since 1990 — people still visit it like a museum."
+      },
+      "phrase": {
+        "say": "'A Maronna t'accumpagna!",
+        "latin": "",
+        "text": {"ru": "«Храни тебя Мадонна!» Так говорят тому, кто уезжает, — вместо «счастливого пути». Считай, что я сказала это тебе с балкона.", "en": "“May the Madonna go with you!” Said to someone leaving, instead of “safe travels”. Consider that I've shouted it to you from the balcony."}
+      },
+      "rule": {
+        "ru": "Посуду, в которой тебе что-то принесли, пустой не возвращают. Кончетта прислала сфольятеллу — отдай корзинку хоть с яблоком.",
+        "en": "A dish someone brought you food in never goes back empty. Concetta sent a sfogliatella — send the basket back with at least an apple."
+      },
+      "letter": {
+        "ru": "Ну вот и неделя. Спасибо, что не спалил кухню и поливал базилик (я позвоню Кончетте и проверю). Ключ положи обратно под коврик. А теперь твоя очередь: оставь мне на столе что-нибудь своё — рецепт твоей бабушки, фильм, песню. Я старая, но любопытная. Будешь снова в Неаполе — у меня всегда найдётся паста и место за столом. Statte bbuono, береги себя.",
+        "en": "So, that's the week. Thank you for not burning the kitchen down and for watering the basil (I'll ring Concetta and check). Put the key back under the mat. Now it's your turn: leave me something of yours on the table — your grandmother's recipe, a film, a song. I'm old, but I'm nosy. If you're ever in Naples again, there's always pasta and a place at my table. Statte bbuono — look after yourself."
+      }
+    }
+  ]
+}

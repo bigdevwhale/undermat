@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ключ под ковриком</string>
+    <string name="channel">Новые записки в квартире</string>
+
+    <string name="w_sub">Неделя в чужой квартире за границей — не выходя из дома.</string>
+    <string name="w_note">Ключ под ковриком. Меня не будет неделю, квартира твоя.\n\nЗаписки я разложила по всему дому: что приготовить вечером, какой фильм здесь знает каждый, какую пластинку поставить, что взять с полки. Читай по одному дню.</string>
+    <string name="w_sign">— хозяйка</string>
+    <string name="w_how">Двенадцать квартир в двенадцати городах, в каждой — свой человек. Каждое утро открывается новый день записок, а в окне — настоящее время и погода в том городе. Готовь, смотри, слушай и читай — и чемодан обрастёт наклейками.</string>
+    <string name="w_go">К доске объявлений</string>
+
+    <string name="board">Доска объявлений</string>
+    <string name="board_sub">Сдаются на неделю. Выбери, чью дверь открыть.</string>
+    <string name="now_at">Сейчас ты %1$s · день %2$d из 7</string>
+    <string name="you_are_here">● ты сейчас здесь</string>
+    <string name="been_here">✓ здесь уже была неделя</string>
+    <string name="take_key">Взять ключ</string>
+    <string name="go_home">Вернуться в квартиру</string>
+    <string name="ends_stay">Неделя %1$s закончится сегодня.</string>
+    <string name="week_hint">Семь дней %1$s: каждое утро — новый день записок.</string>
+
+    <string name="door_where">%1$s, %2$s.\nКлюч под ковриком.</string>
+    <string name="door_tap">приподними коврик</string>
+    <string name="open_door">Открыть дверь</string>
+
+    <string name="there_now">там сейчас</string>
+    <string name="all_read">всё прочитано</string>
+    <string name="menu_board">Доска объявлений</string>
+    <string name="menu_weeks">Мои недели</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="suitcase">Чемодан</string>
+    <string name="evening_in">Вечер %1$s</string>
+    <string name="leave">Уезжаю</string>
+    <string name="knock">Тук-тук!</string>
+
+    <string name="tag_day">%1$s · день %2$d</string>
+    <string name="p_kitchen">Кухня</string>
+    <string name="p_tv">Телевизор</string>
+    <string name="p_record">Проигрыватель</string>
+    <string name="p_books">Книжная полка</string>
+    <string name="p_fridge">Холодильник</string>
+    <string name="p_rules">На холодильнике</string>
+    <string name="p_drawer">Ящик стола</string>
+    <string name="p_word">Рамка на стене</string>
+    <string name="p_window">Окно</string>
+    <string name="p_calendar">Календарь</string>
+
+    <string name="need">Что нужно</string>
+    <string name="swaps">Если у вас такого нет</string>
+    <string name="why">Почему это знает каждый</string>
+    <string name="shopping">Список покупок</string>
+    <string name="where">Где найти</string>
+    <string name="where_title">Поискать</string>
+    <string name="do_kitchen">Приготовлено</string>
+    <string name="done_kitchen">Приготовлено ✓</string>
+    <string name="do_tv">Посмотрено</string>
+    <string name="done_tv">Посмотрено ✓</string>
+    <string name="do_record">Послушано</string>
+    <string name="done_record">Послушано ✓</string>
+    <string name="do_books">Начато</string>
+    <string name="done_books">Начато ✓</string>
+    <string name="sticker_in">Наклейка в чемодан: %1$s</string>
+
+    <string name="rules_title">Правило дома</string>
+    <string name="rules_card">Правило дня</string>
+    <string name="rules_hint">Каждый день — одно неписаное правило. Без морали, просто как здесь живут.</string>
+    <string name="letter_title">Письмо из ящика</string>
+    <string name="leave_gift">Оставить подарок и ключ</string>
+    <string name="word_sub">слово, которое не переводится</string>
+    <string name="fridge_title">Магниты на холодильнике</string>
+    <string name="fact">Знаешь ли ты</string>
+    <string name="phrase">Слово дня</string>
+    <string name="say_it">▶ Как это звучит</string>
+    <string name="no_voice">На телефоне пока нет голоса для этого языка</string>
+
+    <string name="window_title">Вид из окна</string>
+    <string name="time_there">%1$s, %2$s</string>
+    <string name="ahead">на %1$s ч впереди тебя</string>
+    <string name="behind">на %1$s ч позади тебя</string>
+    <string name="same_time">время как у тебя</string>
+    <string name="weather">Погода за окном</string>
+    <string name="no_weather">Погоду узнать не удалось: она приходит из интернета.</string>
+    <string name="windy">ветрено</string>
+    <string name="sky_clear">Ясно</string>
+    <string name="sky_cloudy">Облачно</string>
+    <string name="sky_overcast">Пасмурно</string>
+    <string name="sky_fog">Туман</string>
+    <string name="sky_drizzle">Морось</string>
+    <string name="sky_rain">Дождь</string>
+    <string name="sky_storm">Гроза</string>
+    <string name="sky_snow">Снег</string>
+    <string name="sky_sleet">Мокрый снег</string>
+
+    <string name="today_is">Сегодня: %1$s</string>
+    <string name="how_here">%1$s празднует так</string>
+    <string name="next_holidays">Дальше</string>
+
+    <string name="guest_tag">Сосед</string>
+    <string name="how_live">Как здесь живут</string>
+    <string name="take_gift">Взять, спасибо!</string>
+
+    <string name="e_tag">На двоих или компанией</string>
+    <string name="e_table">На столе</string>
+    <string name="e_music">Пока готовится</string>
+    <string name="e_film">После ужина</string>
+    <string name="e_toast">Тост</string>
+    <string name="e_talk">Три темы для разговора</string>
+    <string name="share">Поделиться вечером</string>
+
+    <string name="f_tag">День седьмой</string>
+    <string name="f_title">Ответный подарок — %1$s</string>
+    <string name="f_text">Оставь что-нибудь своё, как хозяин оставил тебе: блюдо, фильм, песню твоей страны. Любое поле можно не заполнять.</string>
+    <string name="f_dish">Блюдо из дома</string>
+    <string name="f_film">Фильм, который у вас знает каждый</string>
+    <string name="f_song">Песня</string>
+    <string name="f_note">Пара слов на прощание (%1$s прочитает)</string>
+    <string name="f_go">Положить ключ под коврик</string>
+    <string name="f_hint">Неделя %1$s останется в «Моих неделях»: все записки можно будет перечитать.</string>
+
+    <string name="a_week">неделя %1$s</string>
+    <string name="suitcase_empty">Пока пусто. Готовь, смотри, слушай и читай то, что оставили хозяева.</string>
+    <string name="suitcase_hint">Наклейка за каждое приготовленное блюдо, фильм, пластинку и начатую книгу; по одной от каждого соседа; и большая красная — за каждую неделю.</string>
+    <string name="weeks">Мои недели</string>
+    <string name="weeks_empty">Недель пока нет. Когда ключ вернётся под коврик, неделя появится здесь.</string>
+    <string name="you_left">Твой подарок: %1$s</string>
+    <string name="open_again">Открыть квартиру снова →</string>
+
+    <string name="s_notify">Записка по вечерам</string>
+    <string name="s_notify_hint">Когда в квартире появляется следующий день писем.</string>
+    <string name="s_hour">Не раньше %1$d:00</string>
+    <string name="s_language">Язык</string>
+    <string name="s_lang_system">Как в системе</string>
+    <string name="s_debug">Для проверки</string>
+    <string name="s_next_day">Перейти на день вперёд</string>
+    <string name="s_credits">Хозяева придуманы, а фильмы, пластинки, книги, блюда и праздники — настоящие. Погода: Open-Meteo и MET Norway (отправляются только координаты города). Шрифты: PT Serif (ParaType), Caveat (Pablo Impallari), SIL OFL.</string>
+
+    <string name="n_title">%1$s · день %2$d</string>
+    <string name="n_text">В квартире новые записки. Загляни в ящик стола %1$s.</string>
+
+    <string name="community">Сообщество</string>
+    <string name="community_text">«Ключ под ковриком» делает один человек. Ошибки, идеи и новости — через бота StillCraft в Telegram.</string>
+    <string name="community_bug">Сообщить об ошибке</string>
+    <string name="community_bug_sub">Что-то сломалось или выглядит не так</string>
+    <string name="community_idea">Предложить идею</string>
+    <string name="community_idea_sub">Что сделало бы приложение лучше</string>
+    <string name="community_follow">Следить за обновлениями</string>
+    <string name="community_follow_sub">Сообщение, когда выйдет новая версия</string>
+    <string name="community_chat">Чат StillCraft</string>
+    <string name="community_chat_sub">Поговорить с теми, кто пользуется приложениями</string>
+
+    <plurals name="notes_left">
+        <item quantity="one">%d записка</item>
+        <item quantity="few">%d записки</item>
+        <item quantity="many">%d записок</item>
+        <item quantity="other">%d записки</item>
+    </plurals>
+    <plurals name="in_days">
+        <item quantity="one">через %d день</item>
+        <item quantity="few">через %d дня</item>
+        <item quantity="many">через %d дней</item>
+        <item quantity="other">через %d дня</item>
+    </plurals>
+    <plurals name="stickers">
+        <item quantity="one">%d наклейка</item>
+        <item quantity="few">%d наклейки</item>
+        <item quantity="many">%d наклеек</item>
+        <item quantity="other">%d наклейки</item>
+    </plurals>
+    <plurals name="cities">
+        <item quantity="one">%d город</item>
+        <item quantity="few">%d города</item>
+        <item quantity="many">%d городов</item>
+        <item quantity="other">%d города</item>
+    </plurals>
+    <plurals name="done_things">
+        <item quantity="one">%d дело сделано</item>
+        <item quantity="few">%d дела сделано</item>
+        <item quantity="many">%d дел сделано</item>
+        <item quantity="other">%d дела сделано</item>
+    </plurals>
+</resources>

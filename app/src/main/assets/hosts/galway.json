@@ -1,0 +1,538 @@
+{
+  "id": "galway",
+  "stamp": "GALWAY",
+  "lang": "en-IE",
+  "city": {"ru": "Голуэй", "en": "Galway"},
+  "country": {"ru": "Ирландия", "en": "Ireland"},
+  "address": {"ru": "Кладдах, маленький дом в ряду таких же, у самой реки", "en": "The Claddagh, a terraced cottage by the river"},
+  "host": {"ru": "Шивон О'Брайен", "en": "Siobhán O'Brien"},
+  "sign": {"ru": "— Шивон", "en": "— Siobhán"},
+  "about": {
+    "ru": "68 лет, сорок лет разносила почту по Голуэю, по четвергам играет на скрипке в пабе. Знает всех в Кладдахе — и про всех кое-что.",
+    "en": "68, delivered Galway's post for forty years, plays fiddle in the pub on Thursdays. Knows everyone in the Claddagh, and a little something about each of them."
+  },
+  "listing": {
+    "ru": "Сдаю на неделю домик в Кладдахе. Чай крепкий, дождь мягкий, соседи добрые. Скрипку не трогать.",
+    "en": "Cottage in the Claddagh for a week. Strong tea, soft rain, good neighbours. Don't touch the fiddle."
+  },
+  "away": {
+    "ru": "Ключ нашёл — молодец. Я у сестры в Бостоне до воскресенья. Чайник на кухне, чай в шкафу, записки по всему дому. Соседи будут заглядывать — не пугайся.",
+    "en": "Found the key, good. I'm at my sister's in Boston till Sunday. Kettle's in the kitchen, tea's in the press, notes all over the house. The neighbours will call in, don't mind them."
+  },
+  "doorplate": "O'BRIEN",
+  "mat": "FÁILTE",
+  "word": {
+    "word": "meitheal",
+    "text": {
+      "ru": "Читается «мЕхел». Это когда соседи всем миром приходят помочь одному: сжать поле, накосить сена, перекрыть крышу, — а назавтра идут к следующему. Денег никто не берёт, хозяйка кормит. Слово деревенское, старое, но так у нас до сих пор называют любую общую работу.",
+      "en": "Say it “MEH-hel”. It's when the neighbours all turn up to help one house: cut the field, save the hay, fix the roof, and the next day they move on to the next house. Nobody's paid, the woman of the house feeds everyone. An old country word, but we still use it for any job done together."
+    }
+  },
+  "toast": {
+    "say": "Sláinte!",
+    "text": {
+      "ru": "«Здоровья!» Читается примерно «слАн-ча». В ответ скажут «Sláinte agatsa» — «и тебе того же». И когда чокаешься, смотри человеку в глаза, это обязательно.",
+      "en": "“Health!” Say it roughly “SLAWN-cha”. They'll answer “Sláinte agatsa”, the same to you. And look the person in the eye when you clink glasses, that's not optional."
+    }
+  },
+  "hours": [
+    {"h": 0, "ru": "Пабы выпускают последних. На Шоп-стрит кто-то поёт, у чипперной на Куэй-стрит очередь за картошкой.", "en": "The pubs are letting the last ones out. Someone's singing on Shop Street, there's a queue at the chipper on Quay Street."},
+    {"h": 6, "ru": "Лебеди у причала в Кладдахе ждут хлеба, а самые стойкие уже ныряют с вышки в Блэкроке.", "en": "The swans at the Claddagh quay are waiting for bread, and the hardy ones are already jumping off the tower at Blackrock."},
+    {"h": 8, "ru": "По всему городу разом закипают чайники. Школьная форма, автобусы, все ворчат на погоду.", "en": "Every kettle in town boils at once. School uniforms, buses, everyone giving out about the weather."},
+    {"h": 11, "ru": "Время для чашки чая с печеньем. По субботам у церкви Святого Николая рынок: сыр, устрицы, блинчики.", "en": "Time for a cup of tea and a biscuit. On Saturdays there's the market by St Nicholas' church: cheese, oysters, crêpes."},
+    {"h": 13, "ru": "Обед. Старики называют его dinner, и это главная еда дня: мясо, картошка, подлива.", "en": "Dinner. The older people still call the midday meal dinner, and it's the big one: meat, potatoes, gravy."},
+    {"h": 18, "ru": "По радио бьют колокола «Ангелуса» — минута перед новостями. Дома садятся пить tea, то есть ужинать.", "en": "The Angelus bells ring on the radio, a minute before the news. At home people sit down to their tea, meaning supper."},
+    {"h": 21, "ru": "В «Тиг Коли» и «Крейне» начинаются сессии: скрипки, вистлы, бойран. Летом солнце садится над заливом после десяти.", "en": "Sessions start in Tigh Chóilí and the Crane: fiddles, whistles, a bodhrán. In summer the sun sets over the bay after ten."}
+  ],
+  "holidays": [
+    {"m": 1, "d": 6, "name": {"ru": "Женское Рождество", "en": "Women's Christmas"},
+     "text": {"ru": "Nollaig na mBan, последний день Рождества. Женщины идут в паб или в гости, а мужчины моют посуду. В Корке и Керри это святое, мы с подругами тоже не пропускаем.", "en": "Nollaig na mBan, the last day of Christmas. The women go out to the pub or to each other's houses, the men do the washing up. Sacred in Cork and Kerry, and my friends and I never miss it either."}},
+    {"m": 2, "d": 1, "name": {"ru": "День святой Бригиты", "en": "St Brigid's Day"},
+     "text": {"ru": "Из камыша плетут крестик святой Бригиты и вешают над дверью — от огня и беды. С 2023 года у нас в начале февраля в её честь выходной. Мой крестик над дверью — плела сама.", "en": "We weave a St Brigid's cross out of rushes and hang it over the door against fire and harm. Since 2023 there's a bank holiday for her at the start of February. The one over my door I made myself."}},
+    {"m": 3, "d": 17, "name": {"ru": "День святого Патрика", "en": "St Patrick's Day"},
+     "text": {"ru": "Парад через весь центр, трилистник на лацкане, всё зелёное. Честно говоря, ирландцы за границей празднуют громче нас — Брид в Бостоне каждый год зовёт посмотреть.", "en": "A parade through the town, shamrock on the lapel, everything green. To be honest, the Irish abroad make more noise about it than we do. Bríd asks me over to Boston for it every year."}},
+    {"m": 5, "d": 1, "name": {"ru": "Майский день", "en": "May Day"},
+     "text": {"ru": "Белтайн, начало лета по-старому. Раньше девушки вставали до рассвета умываться майской росой — к красоте на весь год. Я умывалась. Как видишь, помогает.", "en": "Bealtaine, the old start of summer. Girls used to get up before dawn to wash their faces in the May dew, for beauty all year. I did it. As you can see, it works."}},
+    {"m": 6, "d": 16, "name": {"ru": "Блумсдэй", "en": "Bloomsday"},
+     "text": {"ru": "День, в который происходит «Улисс». Как раз 16 июня 1904 года Джойс впервые гулял с Норой Барнакл, а Нора — наша, голуэйская. Дублин наряжается в канотье, а мы вспоминаем Нору.", "en": "The day Ulysses happens on. It was 16 June 1904 that Joyce first walked out with Nora Barnacle, and Nora was one of ours, a Galway girl. Dublin puts on its boaters; we remember Nora."}},
+    {"m": 6, "d": 23, "name": {"ru": "Канун Иванова дня", "en": "St John's Eve"},
+     "text": {"ru": "На западе в эту ночь жгут костры и прыгают через них. Пепел раньше разбрасывали по полям, к урожаю. Теперь просто сидят у огня допоздна, а темнеет у нас летом поздно.", "en": "Bonfire night in the west. People used to scatter the ashes on the fields for a good harvest. Now we just sit by the fire late, and in June it's late before it's dark."}},
+    {"m": 10, "d": 31, "name": {"ru": "Хэллоуин", "en": "Halloween"},
+     "text": {"ru": "Самайн — наш праздник, а не американский. Фонари раньше вырезали из репы, тыквы появились уже в Америке. Дети ходят по домам в масках, в колканнон прячут монетки, в бармбрак — колечко.", "en": "Samhain is ours, not America's. We carved lanterns out of turnips long before anyone thought of pumpkins. Children go door to door in masks, coins go in the colcannon and a ring in the barmbrack."}},
+    {"m": 12, "d": 8, "name": {"ru": "Восьмое декабря", "en": "The Eighth of December"},
+     "text": {"ru": "Раньше в этот день вся деревня ехала в город за рождественскими покупками. Магазины битком, а на почте конец света. Я этот день помню ногами.", "en": "Traditionally the day the whole countryside came into town for the Christmas shopping. Shops packed, and the post office in bits. My feet still remember it."}},
+    {"m": 12, "d": 24, "name": {"ru": "Сочельник", "en": "Christmas Eve"},
+     "text": {"ru": "В окне зажигают свечу, чтобы путник знал: здесь ему рады. Зажигать её положено самому младшему в доме. В моём доме самая младшая — я.", "en": "A candle goes in the window so any traveller knows they're welcome. The youngest in the house lights it. In my house the youngest is me."}},
+    {"m": 12, "d": 25, "name": {"ru": "Рождество", "en": "Christmas Day"},
+     "text": {"ru": "С утра — купание. В Солтхилле с вышки в Блэкроке прыгают в море сотни людей в колпаках Санты. Вода ледяная. Я стою на берегу с термосом и полотенцами.", "en": "First thing, the swim. Hundreds of people in Santa hats jump off the tower at Blackrock in Salthill. The water is freezing. I stand on the shore with a flask and the towels."}},
+    {"m": 12, "d": 26, "name": {"ru": "День святого Стефана", "en": "St Stephen's Day"},
+     "text": {"ru": "День крапивника. Раньше мальчишки в соломенных масках ходили по домам с песней и собирали монетки — в Керри ходят до сих пор. Остальная страна едет на скачки.", "en": "Wren Day. Boys in straw masks used to go from house to house singing and collecting pennies, and in Kerry they still do. The rest of the country goes to the races."}}
+  ],
+  "neighbours": [
+    {"who": {"ru": "Мойра, соседка через стенку", "en": "Máire, next door"},
+     "gift": {"ru": "Яблочный пирог", "en": "An apple tart"},
+     "note": {"ru": "Я Мойра, через стенку. Шивон сказала, ты приедешь, — вот пирог, ещё тёплый. Она тебе небось написала, что у неё лучшие боксти на улице? Враньё, лучшие у меня. Так ей и передай.", "en": "I'm Máire, next door. Siobhán said you'd be coming, so here's a tart, still warm. I suppose she told you she makes the best boxty on the street? She does not. I do. You can tell her I said so."},
+     "how": {"ru": "Раньше по вечерам ходили друг к другу без приглашения, просто посидеть, — это и называлось «кейли», задолго до танцев. Теперь реже, но к новенькому с пирогом придут обязательно.", "en": "People used to drop in on each other of an evening without being asked, just to sit and talk. That's what a céilí was, long before it meant a dance. It's rarer now, but a newcomer always gets a tart."},
+     "sticker": "Apple tart"},
+    {"who": {"ru": "Падди, бывший рыбак, дом напротив", "en": "Paddy, retired fisherman, across the road"},
+     "gift": {"ru": "Пять скумбрий", "en": "Five mackerel"},
+     "note": {"ru": "Скумбрия зашла в залив, я наловил больше, чем съем. Жарь на сливочном масле, без затей. Шивон её не ест, говорит — костлявая. Ерунда, просто ей лень чистить. Передай, что я так сказал.", "en": "The mackerel are in the bay and I caught more than I can eat. Fry them in butter, nothing fancy. Siobhán won't eat them, says they're too bony. Nonsense, she's just too lazy to clean them. Tell her I said that."},
+     "how": {"ru": "В конце лета скумбрия подходит к самому берегу, и с пирса её таскают десятками. Лишнюю рыбу не продают и не выбрасывают — разносят соседям.", "en": "In late summer the mackerel come right in to the shore and you can pull them off the pier by the dozen. Extra fish isn't sold or thrown out. It goes round the neighbours."},
+     "sticker": "Mackerel"},
+    {"who": {"ru": "Ифа, студентка из двенадцатого дома", "en": "Aoife, the student at number twelve"},
+     "gift": {"ru": "Пачка чая Barry's", "en": "A box of Barry's Tea"},
+     "note": {"ru": "Шивон просила проверить, не пьёшь ли ты Lyons. Шучу. Но вот тебе Barry's, у неё он к четвергу всегда кончается. Она со мной два года сидела над ирландским перед выпускными, так что я ей по гроб жизни должна.", "en": "Siobhán asked me to check you're not a Lyons drinker. Joking. But here's some Barry's anyway, she always runs out by Thursday. She sat with me over my Irish for two years before the Leaving Cert, so I owe her for life."},
+     "how": {"ru": "У нас две чайные партии: Barry's из Корка и Lyons. Семьи хранят верность своей марке поколениями, и принести пачку «правильного» чая — знак уважения.", "en": "Ireland has two tea parties: Barry's from Cork, and Lyons. Families stay loyal to their brand for generations, and bringing a box of the right one is a mark of respect."},
+     "sticker": "Barrys Tea"}
+  ],
+  "days": [
+    {
+      "kitchen": {
+        "title": {"ru": "Колканнон", "en": "Colcannon"},
+        "orig": "Colcannon",
+        "note": {"ru": "Это едят на Хэллоуин, а я — когда лень. Картошку разомни с молоком, в котором прогрелся зелёный лук, вмешай капусту. Сделай в горке ямку и положи туда хороший кусок масла — пусть тает озерцом. Ешь с краю, макая в масло. В детстве мама прятала в колканнон монетки, завёрнутые в бумажку.", "en": "We eat this at Halloween, and I eat it whenever I can't be bothered. Mash the potatoes with milk you've warmed the scallions in, fold in the cabbage. Make a well in the top and drop in a good lump of butter so it melts into a little lake. Eat from the edge, dipping into the butter. My mother used to hide coins in it, wrapped in paper."},
+        "ingr": {
+          "ru": ["рассыпчатая картошка — 1 кг", "кейл или савойская капуста — 200 г", "зелёный лук — пучок", "молоко — 150 мл", "сливочное масло — 100 г", "соль, белый перец"],
+          "en": ["1 kg floury potatoes", "200 g kale or savoy cabbage", "a bunch of scallions", "150 ml milk", "100 g butter", "salt, white pepper"]
+        },
+        "swaps": {
+          "ru": [["кейл", "савойская или обычная белокочанная капуста"], ["ирландское масло", "любое сливочное 82%"]],
+          "en": [["kale", "savoy or plain white cabbage"], ["Irish butter", "any good 82% butter"]]
+        },
+        "sticker": "Colcannon"
+      },
+      "tv": {
+        "title": {"ru": "Песнь моря", "en": "Song of the Sea"},
+        "orig": "Song of the Sea",
+        "by": {"ru": "Томм Мур, мультфильм", "en": "Tomm Moore, animated film"},
+        "year": "2014",
+        "note": {"ru": "Мальчик Бен и его младшая сестрёнка, а сестрёнка-то наполовину шелки — тюлень, который на суше становится человеком. Нарисовано так, что хочется вставить каждый кадр в раму. Про шелки мне в детстве рассказывала бабушка с Аранских островов, у нас на западе в них почти верят. Посмотри, а потом выйди к заливу: тюлени там бывают.", "en": "A boy called Ben and his little sister, and the little sister is half selkie, a seal who becomes a person on land. Every frame looks like it belongs in a frame. My granny from the Aran Islands told me selkie stories when I was small; out west we half believe them. Watch it, then go down to the bay. There are seals."},
+        "why": {"ru": "Мультфильм нашей студии из Килкенни, выдвинутый на «Оскар», — и при этом совсем свой: шелки, старые песни, бабушкины сказки. Его у нас знает почти каждый ребёнок.", "en": "Made by our own studio in Kilkenny and nominated for an Oscar, yet it's completely ours: selkies, old songs, granny's stories. Nearly every child here knows it."},
+        "query": "Song of the Sea 2014",
+        "sticker": "Song of the Sea"
+      },
+      "record": {
+        "title": {"ru": "Planxty", "en": "Planxty"},
+        "orig": "Planxty",
+        "by": {"ru": "Planxty", "en": "Planxty"},
+        "year": "1973",
+        "kind": "album",
+        "note": {"ru": "С этой пластинки в семидесятые вся молодёжь кинулась учить старые песни. Лиам О'Флинн на волынке, поёт Кристи Мур, а Энди Ирвин и Донал Ланни играют на бузуки — греческий инструмент, а звучит так, будто всегда был нашим. Мне было пятнадцать, я заслушала её до дыр.", "en": "This record sent every young person in the seventies off learning the old songs. Liam O'Flynn on the pipes, Christy Moore singing, Andy Irvine and Dónal Lunny on bouzouki, a Greek instrument that sounds like it was always ours. I was fifteen and I wore it thin."},
+        "query": "Planxty 1973 album",
+        "sticker": "Planxty"
+      },
+      "books": {
+        "title": {"ru": "Пег", "en": "Peig"},
+        "orig": "Peig",
+        "by": {"ru": "Пег Сэйерс", "en": "Peig Sayers"},
+        "year": "1936",
+        "note": {"ru": "Спроси любого ирландца моих лет про «Пег» — он застонет. Нас всех заставляли читать её в школе по-ирландски: старая женщина с острова Бласкет рассказывает свою жизнь, а жизнь была нелёгкая. Мы её терпеть не могли. А недавно я перечитала — и, знаешь, какая рассказчица! Не книжка, а голос.", "en": "Ask any Irish person my age about Peig and they'll groan. We all had to read it in school, in Irish: an old woman on the Blasket Island telling her life, and it wasn't an easy one. We couldn't stand it. I read it again lately and, do you know, what a storyteller she was. It's not a book, it's a voice."},
+        "sticker": "Peig"
+      },
+      "fact": {
+        "ru": "Кольцо Кладдах родом из моего квартала: две руки держат сердце в короне. Носят на правой руке: если сердце смотрит к ногтю — человек свободен, если к ладони — занят. Так что сначала смотри на руки.",
+        "en": "The Claddagh ring comes from my own street, more or less: two hands holding a crowned heart. Worn on the right hand with the heart pointing out to the fingertip, you're free; pointing in, you're taken. So look at the hands first."
+      },
+      "phrase": {
+        "say": "Dia duit",
+        "latin": "",
+        "text": {
+          "ru": "«Здравствуй» по-ирландски, дословно «Бог тебе». Читается примерно «дИа гвитч». Отвечают «Dia is Muire duit» — «Бог и Мария тебе». В Коннемаре услышишь на каждом шагу, в городе реже, но скажешь — все заулыбаются.",
+          "en": "Hello in Irish, literally “God to you”. Say it roughly “DEE-a gwitch”. The answer is “Dia is Muire duit”, God and Mary to you. You'll hear it everywhere in Connemara, less in town, but say it and watch the smiles."
+        }
+      },
+      "rule": {
+        "ru": "Предложат чай — откажись разок для приличия, всё равно нальют. И молоко — после чая, не до. Кто льёт молоко первым, о тех я лучше промолчу.",
+        "en": "When you're offered tea, say no once for manners; you'll get it anyway. And the milk goes in after the tea, not before. About people who pour the milk first I'll say nothing."
+      },
+      "letter": {
+        "ru": "Ну, здравствуй. Раз читаешь, значит, ключ нашёл и дверь не выломал. Дом маленький: две комнаты внизу, две наверху, третья ступенька скрипит — так и надо. Чайник на кухне, чай в шкафу, сахарница — на подоконнике. Скрипку в футляре на шкафу не трогай, она старше меня. Остальное бери. Я сорок лет разносила по Голуэю чужие письма, а теперь вот пишу свои. Непривычно.",
+        "en": "Well, hello. If you're reading this you found the key and didn't break the door down. It's a small house: two rooms down, two up, the third stair creaks and is meant to. Kettle's in the kitchen, tea's in the press, sugar on the windowsill. Don't touch the fiddle case on the wardrobe, that fiddle is older than me. Everything else is yours. Forty years I carried other people's letters round Galway, and now I'm writing my own. Strange feeling."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Содовый хлеб", "en": "Brown soda bread"},
+        "orig": "Brown soda bread",
+        "note": {"ru": "Хлеб без дрожжей, на соде и пахте, — его пекут почти в каждом доме. Тесто не меси, только перемешай ложкой, пока липкое. Сверху ножом крест поглубже — «чтобы феи вышли», так говорила мама. Двести градусов, минут сорок. Готов, если постучать по донышку — звук глухой, как у пустой коробки.", "en": "Bread without yeast, just soda and buttermilk, made in nearly every house. Don't knead it, just stir with a spoon till it's sticky. Cut a deep cross on top “to let the fairies out”, as my mother said. Two hundred degrees, forty minutes or so. It's done when you knock on the bottom and it sounds hollow, like an empty box."},
+        "ingr": {
+          "ru": ["цельнозерновая мука — 250 г", "пшеничная мука — 200 г", "сода — 1 ч. л.", "соль — 1 ч. л.", "пахта — 450 мл", "горсть овсяных хлопьев"],
+          "en": ["250 g wholemeal flour", "200 g plain flour", "1 tsp bread soda", "1 tsp salt", "450 ml buttermilk", "a handful of oats"]
+        },
+        "swaps": {
+          "ru": [["пахта", "кефир"], ["цельнозерновая мука грубого помола", "обойная мука или мука с отрубями"]],
+          "en": [["buttermilk", "kefir"], ["coarse wholemeal flour", "any wholegrain flour with bran"]]
+        },
+        "sticker": "Soda bread"
+      },
+      "tv": {
+        "title": {"ru": "Отец Тед", "en": "Father Ted"},
+        "orig": "Father Ted",
+        "by": {"ru": "Грэм Лайнхан и Артур Мэтьюз, сериал", "en": "Graham Linehan and Arthur Mathews, sitcom"},
+        "year": "1995–1998",
+        "note": {"ru": "Три священника, сосланные за провинности на крошечный остров Крагги. Отец Тед строит планы, отец Дугал ничего не понимает, отец Джек кричит из кресла. А миссис Дойл носится с подносом: «Ну давай, давай, давай!» — так у нас теперь все тётушки чай предлагают. Дом из сериала стоит в графстве Клэр, совсем рядом.", "en": "Three priests banished to tiny Craggy Island for their sins. Father Ted schemes, Father Dougal understands nothing, Father Jack shouts from his chair. And Mrs Doyle runs about with the tray: “Ah go on, go on, go on!” That's how every aunt in Ireland offers tea now. The house from the show is in County Clare, just down the road."},
+        "why": {"ru": "Его повторяют по телевизору почти тридцать лет, а фразы оттуда у нас как пословицы. Каждая ирландская мама над чайником — немножко миссис Дойл.", "en": "It's been repeated for nearly thirty years and its lines are proverbs here. Every Irish mother standing over a teapot is a little bit Mrs Doyle."},
+        "query": "Father Ted",
+        "sticker": "Father Ted"
+      },
+      "record": {
+        "title": {"ru": "The Fields of Athenry", "en": "The Fields of Athenry"},
+        "orig": "The Fields of Athenry",
+        "by": {"ru": "Пит Сент-Джон; лучше всего — в исполнении Падди Рейли", "en": "Pete St. John; best sung by Paddy Reilly"},
+        "year": "1979",
+        "kind": "song",
+        "note": {"ru": "Атенри — городок в получасе отсюда. Песня про парня, которого в голод сослали в Австралию: он украл зерно, чтобы прокормить детей. Песня грустная, а поют её на стадионах — болельщики сборной, тысячи людей хором. И на свадьбах, под конец, когда все уже обнялись. Слушай Падди Рейли.", "en": "Athenry is half an hour from here. It's about a young man transported to Australia in the Famine for stealing corn to feed his children. A sad song, and yet it's sung in stadiums, thousands of fans together. And at weddings, near the end, when everyone has their arms round each other. Listen to Paddy Reilly's."},
+        "query": "Paddy Reilly The Fields of Athenry",
+        "sticker": "Athenry"
+      },
+      "books": {
+        "title": {"ru": "Счастливый принц", "en": "The Happy Prince and Other Tales"},
+        "orig": "The Happy Prince and Other Tales",
+        "by": {"ru": "Оскар Уайльд", "en": "Oscar Wilde"},
+        "year": "1888",
+        "note": {"ru": "Сказка про статую принца и ласточку, которая не улетела на юг, чтобы ему помочь. Я читала её племянникам по телефону в Бостон и всегда плакала на одном и том же месте. Уайльд, между прочим, мальчишкой проводил лето на нашем озере Лох-Корриб. Читай вслух — так лучше.", "en": "The statue of a prince and the swallow who didn't fly south so she could help him. I read it to my nephews down the phone to Boston and always cried at the same spot. Wilde, by the way, spent his boyhood summers on our own Lough Corrib. Read it aloud, it's better that way."},
+        "sticker": "Happy Prince"
+      },
+      "fact": {
+        "ru": "До 2015 года почтовых индексов в Ирландии почти не было — только номера районов в Дублине. Письмо могло прийти на адрес «Шивон, рыжая, Кладдах, у реки» — и приходило. Уж я-то знаю, я его и несла.",
+        "en": "Until 2015 Ireland had almost no postcodes, only the district numbers in Dublin. A letter could come addressed to “Siobhán, red hair, the Claddagh, by the river” and get there. I should know, I was the one carrying it."
+      },
+      "phrase": {
+        "say": "Grand",
+        "latin": "",
+        "text": {
+          "ru": "Главное слово Ирландии. «Как дела?» — «Grand». Это значит и «прекрасно», и «нормально», и «всё ужасно, но не будем об этом». Слушай интонацию. «Sure it'll be grand» — «да всё образуется» — наш национальный девиз.",
+          "en": "The most important word in Ireland. “How are you?” “Grand.” It can mean wonderful, fine, or everything's a disaster but we won't go into it. Listen to the tone. “Sure it'll be grand” is the national motto."
+        }
+      },
+      "rule": {
+        "ru": "В пабе платят по кругу: один берёт на всю компанию, потом следующий. Вошёл в круг — в свой черёд угощай. Кто уходит, не поставив свой круг, того помнят долго.",
+        "en": "In the pub you buy in rounds: one person gets the drinks for everyone, then the next. If you're in the round, you stand your round. Whoever leaves before their turn is remembered for a long time."
+      },
+      "letter": {
+        "ru": "Моя сестра Брид уехала в Бостон в семьдесят шестом, ей было девятнадцать. Тогда уезжали многие, на вокзале каждую неделю кто-то плакал. Там она вышла за парня из Коннемары — пришлось лететь через океан, чтобы найти соседа. У неё трое детей и пятеро внуков, и все говорят «we're Irish», хотя настоящего нашего дождя не видели. А я так и не вышла замуж. Сорок лет разносила чужие любовные письма — мне хватило.",
+        "en": "My sister Bríd went to Boston in seventy-six, she was nineteen. Plenty went then; every week somebody was crying at the station. Over there she married a Connemara lad, crossed an ocean to find a neighbour. Three children, five grandchildren, and they all say “we're Irish”, though not one of them has seen proper rain. I never married myself. Forty years delivering other people's love letters, that was plenty."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Рыбный чаудер", "en": "Seafood chowder"},
+        "orig": "Seafood chowder",
+        "note": {"ru": "В каждом пабе у залива свой чаудер, и каждый уверен, что его лучший. Мой такой: порей и картошку потомить в масле, залить бульоном и молоком. Потом треску, копчёную пикшу и мидии — на пять минут, не дольше, иначе рыба станет резиновой. Ложку сливок, укроп — и ломоть вчерашнего содового хлеба рядом.", "en": "Every pub on the bay has its own chowder and every one thinks theirs is the best. Mine goes like this: soften leek and potato in butter, add stock and milk. Then the cod, smoked haddock and mussels, five minutes and no more or the fish goes rubbery. A spoon of cream, some dill, and a slice of yesterday's soda bread on the side."},
+        "ingr": {
+          "ru": ["треска или хек — 300 г", "копчёная пикша — 200 г", "мидии — 500 г", "лук-порей — 1 шт.", "картошка — 2 шт.", "молоко — 500 мл и рыбный бульон — 300 мл", "сливки — 100 мл, укроп"],
+          "en": ["300 g cod or hake", "200 g smoked haddock", "500 g mussels", "1 leek", "2 potatoes", "500 ml milk and 300 ml fish stock", "100 ml cream, dill"]
+        },
+        "swaps": {
+          "ru": [["копчёная пикша", "любая белая рыба горячего копчения"], ["свежие мидии", "замороженный морской коктейль"]],
+          "en": [["smoked haddock", "any hot-smoked white fish"], ["fresh mussels", "a frozen seafood mix"]]
+        },
+        "sticker": "Chowder"
+      },
+      "tv": {
+        "title": {"ru": "The Late Late Toy Show", "en": "The Late Late Toy Show"},
+        "orig": "The Late Late Toy Show",
+        "by": {"ru": "RTÉ, ежегодная передача", "en": "RTÉ, annual programme"},
+        "year": "1975",
+        "note": {"ru": "Раз в год, в пятницу в конце ноября, вся страна сидит у телевизора в пижамах. Ведущий в рождественском свитере, а дети в студии показывают новые игрушки, поют и говорят что вздумается. Малышам в этот вечер разрешают не спать. Я не пропустила ни одного выпуска — в понедельник на почте всё равно только о нём и говорят.", "en": "Once a year, on a Friday at the end of November, the whole country sits in front of the telly in pyjamas. The presenter wears a Christmas jumper, and children in the studio show off the new toys, sing, and say whatever comes into their heads. The little ones are let stay up. I've never missed one; on Monday the whole post office talks of nothing else."},
+        "why": {"ru": "Самая смотримая передача года в Ирландии, и так уже десятилетиями. С неё у нас начинается Рождество.", "en": "The most-watched programme of the year in Ireland, decade after decade. It's where our Christmas begins."},
+        "query": "Late Late Toy Show",
+        "sticker": "Toy Show"
+      },
+      "record": {
+        "title": {"ru": "Fairytale of New York", "en": "Fairytale of New York"},
+        "orig": "Fairytale of New York",
+        "by": {"ru": "The Pogues и Кирсти Макколл", "en": "The Pogues with Kirsty MacColl"},
+        "year": "1987",
+        "kind": "song",
+        "note": {"ru": "Самая нерождественская рождественская песня: двое ирландцев в Нью-Йорке ругаются и любят друг друга. Шейн Макгоуэн поёт, Кирсти Макколл огрызается. Но есть там строчка: полицейский хор поёт «Голуэйский залив» — и на этих словах весь наш паб поднимает стаканы. В декабре она звучит из каждой двери.", "en": "The least Christmassy Christmas song there is: two Irish people in New York fighting and loving each other. Shane MacGowan sings, Kirsty MacColl gives it back to him. But there's a line where the NYPD choir sing “Galway Bay”, and at that line the whole pub here raises its glasses. In December it's out of every door."},
+        "query": "The Pogues Fairytale of New York",
+        "sticker": "Fairytale NY"
+      },
+      "books": {
+        "title": {"ru": "Дублинцы", "en": "Dubliners"},
+        "orig": "Dubliners",
+        "by": {"ru": "Джеймс Джойс", "en": "James Joyce"},
+        "year": "1914",
+        "note": {"ru": "Дублин, конечно, не Голуэй, но жена Джойса, Нора Барнакл, выросла здесь, на Боулинг-Грин, в десяти минутах от меня. Её домик теперь музей, крошечный. Начни с последнего рассказа, «Мёртвые»: там жена вспоминает голуэйского мальчика, а снег идёт над всей Ирландией. Названия не пугайся.", "en": "Dublin isn't Galway, granted, but Joyce's wife Nora Barnacle grew up here, on Bowling Green, ten minutes from me. Her little house is a museum now, a tiny one. Start with the last story, “The Dead”: a wife remembers a Galway boy, and snow falls all over Ireland. Don't be put off by the title."},
+        "sticker": "Dubliners"
+      },
+      "fact": {
+        "ru": "Голуэй зовут Городом племён: в средние века им правили четырнадцать купеческих семей — Линчи, Блейки, Джойсы, Френчи и другие. Их фамилии до сих пор на вывесках и в телефонной книге.",
+        "en": "Galway is called the City of the Tribes: in the Middle Ages it was run by fourteen merchant families, the Lynches, Blakes, Joyces, Frenches and the rest. Their names are still over the shop doors and in the phone book."
+      },
+      "phrase": {
+        "say": "Craic",
+        "latin": "",
+        "text": {
+          "ru": "Читается «крэк». Это веселье, хорошая компания и новости разом. «What's the craic?» — «Как жизнь, что нового?». «The craic was mighty» — «было здорово». А если про вечер говорят «no craic», значит, тоска смертная.",
+          "en": "Say it “crack”. Fun, good company and news all in one. “What's the craic?” means what's new with you. “The craic was mighty” means a great night. And if they say there was no craic, it was deadly dull."
+        }
+      },
+      "rule": {
+        "ru": "Новую обувь не ставь на стол, даже в коробке. Это к беде, так говорила мама, и я до сих пор не ставлю. Да и вообще, на столе едят.",
+        "en": "Never put new shoes on the table, not even in the box. It's bad luck, my mother said, and I still won't do it. Besides, people eat off that table."
+      },
+      "letter": {
+        "ru": "Мой первый день на почте — март семьдесят восьмого. Дали велосипед тяжёлый, как корова, и сумку, которая тянула в канаву. Дождь шёл боком, как у нас водится. В Солтхилле меня цапнула собака, а хозяйка в извинение налила чаю с виски — в десять утра! Я вернулась мокрая насквозь и совершенно счастливая. Потом сорок лет ездила тем же маршрутом, только собаки менялись.",
+        "en": "My first day at the post was March seventy-eight. They gave me a bike as heavy as a cow and a bag that dragged me towards every ditch. The rain was sideways, as it is here. A dog in Salthill nipped me, and the woman of the house poured me tea with whiskey in it to make up for it, at ten in the morning. I came back soaked to the skin and perfectly happy. Forty years on the same round after that; only the dogs changed."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Айриш-стью", "en": "Irish stew"},
+        "orig": "Irish stew",
+        "note": {"ru": "Про стью у нас спорят до драки: класть морковь или нет. Я кладу, пусть меня хоть проклянут в Кладдахе. Баранью шею, лук и картошку слоями в кастрюлю, воды до половины, крышку — и на самый тихий огонь часа на два. Часть картошки разварится и загустит подливу, так и надо. Никакой муки! На второй день ещё вкуснее.", "en": "People here will come to blows over stew: carrots or no carrots. I put them in, and the Claddagh can curse me for it. Lamb neck, onion and potato in layers in the pot, water halfway up, lid on, and the lowest flame for two hours. Some of the potato will fall apart and thicken it, which is the point. No flour! Even better the next day."},
+        "ingr": {
+          "ru": ["баранья шея на кости — 1 кг", "картошка — 1 кг", "лук — 3 шт.", "морковь — 2 шт. (по желанию)", "тимьян — пара веточек", "вода — 500 мл", "соль, чёрный перец"],
+          "en": ["1 kg lamb neck on the bone", "1 kg potatoes", "3 onions", "2 carrots (if you dare)", "a couple of sprigs of thyme", "500 ml water", "salt, black pepper"]
+        },
+        "swaps": {
+          "ru": [["баранья шея", "баранья лопатка или говяжья голяшка"]],
+          "en": [["lamb neck", "lamb shoulder or beef shin"]]
+        },
+        "sticker": "Irish stew"
+      },
+      "tv": {
+        "title": {"ru": "Поле", "en": "The Field"},
+        "orig": "The Field",
+        "by": {"ru": "Джим Шеридан, по пьесе Джона Б. Кина", "en": "Jim Sheridan, from the play by John B. Keane"},
+        "year": "1990",
+        "note": {"ru": "Бык Маккейб всю жизнь удобрял чужое поле водорослями — таскал их на спине с берега — и считает его своим. А поле выставляют на продажу, и покупатель — американец. Тяжёлый фильм, зато про то, что значит для ирландца клочок своей земли. Снимали в Линане, в Коннемаре. Ричард Харрис за эту роль был номинирован на «Оскар».", "en": "The Bull McCabe has spent his life manuring a rented field with seaweed he carried up from the shore on his back, and he thinks it's his. Then the field goes up for sale and the buyer is an American. A hard film, but it tells you what a scrap of land means to an Irish person. Shot in Leenane, in Connemara. Richard Harris got an Oscar nomination for it."},
+        "why": {"ru": "Пьесу Кина ставит каждый сельский любительский театр, а фильм с Харрисом знает любой, кто вырос в деревне. Земля у ирландцев — больное место.", "en": "Every amateur drama group in the country has done Keane's play, and anyone who grew up in the country knows the film. Land is a sore point with the Irish."},
+        "query": "The Field 1990 Richard Harris",
+        "sticker": "The Field"
+      },
+      "record": {
+        "title": {"ru": "Ride On", "en": "Ride On"},
+        "orig": "Ride On",
+        "by": {"ru": "Кристи Мур", "en": "Christy Moore"},
+        "year": "1984",
+        "kind": "album",
+        "note": {"ru": "Кристи Мур — тот самый, из «Планксти», только уже один, с гитарой. Его концерты — это когда зал поёт громче него. Заглавную песню написал Джимми Маккарти, и я её всегда включаю в машине, если еду на запад, в Коннемару. Кристи из Килдэра, а поёт так, будто вырос сразу в каждом графстве.", "en": "Christy Moore, the same one from Planxty, out on his own now with a guitar. At his concerts the crowd sings louder than he does. Jimmy MacCarthy wrote the title song, and I always put it on in the car driving west into Connemara. Christy's a Kildare man, but he sings like he grew up in every county at once."},
+        "query": "Christy Moore Ride On album",
+        "sticker": "Christy Moore"
+      },
+      "books": {
+        "title": {"ru": "Кладбищенская глина", "en": "The Dirty Dust"},
+        "orig": "Cré na Cille",
+        "by": {"ru": "Мартин О Кайн", "en": "Máirtín Ó Cadhain"},
+        "year": "1949",
+        "note": {"ru": "Самый смешной роман на ирландском языке — а дело происходит на кладбище. Покойники в Коннемаре лежат в земле и сплетничают, ссорятся, выясняют, кого похоронили на месте подороже. О Кайн родом отсюда, из Кос-Фарраге, к западу от Голуэя. Есть английские переводы. Прочитаешь — поймёшь, почему у нас поминки бывают веселее свадеб.", "en": "The funniest novel in the Irish language, and it's set in a graveyard. The dead of Connemara lie in the clay gossiping, feuding, arguing over who got the dearer plot. Ó Cadhain was from just west of here, Cois Fharraige. There are English translations. Read it and you'll see why our wakes can be livelier than our weddings."},
+        "sticker": "Cre na Cille"
+      },
+      "fact": {
+        "ru": "Символ Ирландии — арфа, а не трилистник: она на наших евро и на паспорте. Арфа «Гиннесса» смотрит в другую сторону: пивоварня зарегистрировала её своим знаком ещё в 1876 году, задолго до независимости.",
+        "en": "Ireland's emblem is the harp, not the shamrock: it's on our euro coins and our passports. The Guinness harp faces the other way: the brewery registered it as its trademark back in 1876, long before independence."
+      },
+      "phrase": {
+        "say": "Giving out",
+        "latin": "",
+        "text": {
+          "ru": "Это не «раздавать», а «ругать, ворчать, отчитывать». «She was giving out to me» — «она меня отчитала». Если я вернусь и найду в раковине немытые чашки, я буду giving out, предупреждаю.",
+          "en": "Not handing anything out: it means scolding, grumbling, complaining. “She was giving out to me” means she gave me a telling-off. If I come home to cups in the sink, I'll be giving out, I'm warning you."
+        }
+      },
+      "rule": {
+        "ru": "Увидишь одну сороку — поздоровайся: «Доброе утро, мистер Сорока!» Одна — к печали, две — к радости. Я здороваюсь каждое утро, соседи уже привыкли.",
+        "en": "If you see a single magpie, greet it: “Good morning, Mr Magpie!” One for sorrow, two for joy. I salute him every morning; the neighbours are used to it."
+      },
+      "letter": {
+        "ru": "Скрипка на шкафу — папина. Он играл на танцах по всей Коннемаре, а я сидела под столом и слушала. Учил меня с голоса: нот у нас не признавали. По четвергам я играю в «Крейне» на Си-роуд, наверху. Зайдёшь — скажи, что ты от Шивон, тебя посадят поближе и нальют. Только сиди и слушай, ладно? Мелодии там длинные, а люди серьёзные.",
+        "en": "The fiddle on the wardrobe was my father's. He played at dances all over Connemara and I sat under the table listening. He taught me by ear; we didn't hold with written music. On Thursdays I play upstairs in the Crane on Sea Road. Call in, say you're Siobhán's, and they'll sit you near the front and get you a drink. Just sit and listen, will you? The tunes are long and the people are serious."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Спайс-бэг", "en": "Spice bag"},
+        "orig": "Spice bag",
+        "note": {"ru": "Это не бабушкина еда, а еда моих племянников, но теперь её заказывает вся страна. Бумажный пакет из китайской забегаловки: картошка фри, хрустящая курица полосками, жареный перец, лук, чили, и всё засыпано солёно-пряной смесью. Дома я всё обжариваю, бросаю в пакет со специями и трясу. Ешь прямо из пакета, на набережной в Солтхилле.", "en": "This isn't granny food, it's my nephews' generation's, but now the whole country orders it. A paper bag from the Chinese takeaway: chips, crispy strips of chicken, fried peppers, onion, chilli, all shaken up in a salty spice mix. At home I fry the lot, tip it into a bag with the spices and shake. Eat it straight from the bag on the prom in Salthill."},
+        "ingr": {
+          "ru": ["куриное филе — 400 г", "картошка фри — 500 г", "болгарский перец — 1 шт.", "лук — 1 шт.", "свежий чили — 1 шт.", "кукурузный крахмал — 3 ст. л.", "соль и сахар по 1 ч. л., «пять специй» и хлопья чили по ½ ч. л."],
+          "en": ["400 g chicken breast", "500 g chips", "1 pepper", "1 onion", "1 fresh chilli", "3 tbsp cornflour", "1 tsp each salt and sugar, ½ tsp each five-spice and chilli flakes"]
+        },
+        "swaps": {
+          "ru": [["смесь «пять специй»", "по щепотке молотого бадьяна, корицы и чёрного перца"]],
+          "en": [["five-spice", "a pinch each of ground star anise, cinnamon and black pepper"]]
+        },
+        "sticker": "Spice bag"
+      },
+      "tv": {
+        "title": {"ru": "Коммитментс", "en": "The Commitments"},
+        "orig": "The Commitments",
+        "by": {"ru": "Алан Паркер, по роману Родди Дойла", "en": "Alan Parker, from the novel by Roddy Doyle"},
+        "year": "1991",
+        "note": {"ru": "Дублинские ребята с северной стороны собирают соул-группу и хотят петь, как великие американские соул-певцы. Ругаются, ссорятся, расходятся — и поют так, что мурашки по коже. Почти все актёры — никому не известные музыканты, их нашли на прослушиваниях. Фразы оттуда у нас знают все, только приличных среди них мало.", "en": "Northside Dublin lads put together a soul band and want to sing like the great American soul singers. They curse, fight, fall apart, and sing so it raises the hair on your arms. Nearly all the cast were unknown musicians found at auditions. Everybody here knows the lines, though few of them are fit to repeat."},
+        "why": {"ru": "Самая цитируемая ирландская комедия, а её саундтрек был тогда чуть ли не в каждом доме. Дублинцы смотрят её как хронику про своих дядьёв.", "en": "The most quoted Irish comedy, and in its day the soundtrack was in nearly every house. Dubliners watch it like a documentary about their uncles."},
+        "query": "The Commitments 1991",
+        "sticker": "Commitments"
+      },
+      "record": {
+        "title": {"ru": "Nothing Compares 2 U", "en": "Nothing Compares 2 U"},
+        "orig": "Nothing Compares 2 U",
+        "by": {"ru": "Шинейд О'Коннор", "en": "Sinéad O'Connor"},
+        "year": "1990",
+        "kind": "song",
+        "note": {"ru": "Песню написал Принс, но спроси любого ирландца — это песня Шинейд. Клип помнишь? Одно лицо крупным планом, бритая голова, и под конец две слезы. Весной девяностого её крутили везде, я разносила почту под этот голос из каждого окна. Таких голосов у нас больше не было.", "en": "Prince wrote it, but ask any Irish person and it's Sinéad's song. Remember the video? Just her face, close up, the shaved head, and two tears near the end. In the spring of ninety it was everywhere; I did my round with that voice coming out of every window. We've never had another voice like it."},
+        "query": "Sinead O'Connor Nothing Compares 2 U",
+        "sticker": "Sinead"
+      },
+      "books": {
+        "title": {"ru": "Прах Анджелы", "en": "Angela's Ashes"},
+        "orig": "Angela's Ashes",
+        "by": {"ru": "Фрэнк Маккорт", "en": "Frank McCourt"},
+        "year": "1996",
+        "note": {"ru": "Воспоминания о детстве в Лимерике: бедность, дождь, отец пропивает получку. Звучит тоскливо, а смеёшься чуть не на каждой странице. Когда книга вышла, в Лимерике многие обиделись: не так уж плохо, мол, у нас было. Маккорт родился в Нью-Йорке, мальчишкой вернулся с родителями в Лимерик, а в девятнадцать снова уплыл в Америку. Как многие наши.", "en": "A Limerick childhood: poverty, rain, a father who drinks the wages. Sounds miserable, and you laugh on nearly every page. When it came out, plenty in Limerick took offence, saying it wasn't that bad. McCourt was born in New York, came back to Limerick as a small boy, and at nineteen sailed off to America again. Like so many of ours."},
+        "sticker": "Angelas Ashes"
+      },
+      "fact": {
+        "ru": "Почтовые ящики у нас зелёные. При англичанах они были красные, а после независимости их просто перекрасили — и на многих старых до сих пор видны корона и буквы VR, королева Виктория.",
+        "en": "Our post boxes are green. Under the British they were red, and after independence they were simply painted over, so many old ones still carry the crown and the letters VR, for Queen Victoria."
+      },
+      "phrase": {
+        "say": "Your man",
+        "latin": "",
+        "text": {
+          "ru": "«Тот самый», «вон тот». Так говорят про любого мужчину, даже незнакомого: «your man at the bar» — «вон тот у стойки». Про женщину — «your one». Твоим он от этого, понятно, не становится.",
+          "en": "“That fella”, any man at all, even a stranger: “your man at the bar” is the one standing over there. A woman is “your one”. He doesn't become yours, of course."
+        }
+      },
+      "rule": {
+        "ru": "Выходя из автобуса, скажи водителю «thanks». Говорят все, даже подростки в наушниках. Не скажешь — не арестуют, но посмотрят.",
+        "en": "When you get off the bus, say “thanks” to the driver. Everyone does, even teenagers in headphones. Nobody'll arrest you if you don't, but they'll look."
+      },
+      "letter": {
+        "ru": "Признаюсь, раз меня нет рядом. Все почтальоны читают открытки. Все! Кто говорит, что нет, — врёт. Открытка ведь на то и открытка. За сорок лет я знала, кто в Кладдахе влюблён, кто ждёт ребёнка, кто проигрался на скачках. И ни разу никому не сказала. Ну, почти ни разу. Одну открытку из Испании я, каюсь, три дня носила в сумке — такая была красивая. Потом отдала, конечно.",
+        "en": "A confession, since I'm not there to see your face. Every postman reads the postcards. Every one! Anyone who says otherwise is lying. That's what a postcard is for. In forty years I knew who in the Claddagh was in love, who was expecting, who'd lost money on the horses. And I never told a soul. Well, hardly ever. One card from Spain I carried in my bag for three days, it was that lovely. I delivered it after, of course."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Боксти", "en": "Boxty"},
+        "orig": "Boxty",
+        "note": {"ru": "Боксти — картофельные оладьи из Мейо и Литрима, но в Голуэе их тоже любят. Половину картошки натри сырой и отожми, половину отвари и разомни, смешай с мукой и пахтой — и на сковородку. Есть стишок: «Боксти на сковородке, боксти на плите, не умеешь боксти — не видать тебе мужа». Мне, как видишь, не помогло, зато боксти у меня отменные.", "en": "Boxty are potato pancakes from Mayo and Leitrim, but Galway loves them too. Grate half the potatoes raw and squeeze them dry, boil and mash the other half, mix with flour and buttermilk, and into the pan. There's a rhyme: “Boxty on the griddle, boxty on the pan, if you can't make boxty, you'll never get a man.” Didn't help me, as you can see, but my boxty are the best."},
+        "ingr": {
+          "ru": ["сырая картошка — 250 г", "варёная картошка — 250 г", "мука — 150 г", "сода — ½ ч. л.", "пахта — 150 мл", "соль", "сливочное масло для жарки — 30 г"],
+          "en": ["250 g raw potato", "250 g boiled potato", "150 g plain flour", "½ tsp bread soda", "150 ml buttermilk", "salt", "30 g butter for frying"]
+        },
+        "swaps": {
+          "ru": [["пахта", "кефир"]],
+          "en": [["buttermilk", "kefir"]]
+        },
+        "sticker": "Boxty"
+      },
+      "tv": {
+        "title": {"ru": "Тихий человек", "en": "The Quiet Man"},
+        "orig": "The Quiet Man",
+        "by": {"ru": "Джон Форд", "en": "John Ford"},
+        "year": "1952",
+        "note": {"ru": "Американец-боксёр возвращается в деревню, где родилась его мать, влюбляется в рыжую Мэри Кейт и полфильма дерётся с её братом. Снимали в Конге, это час езды отсюда, а станцию — у нас в графстве, в Баллиглунине. В Конге теперь стоит памятник Джону Уэйну и Морин О'Харе. Мы над фильмом посмеиваемся — и смотрим каждый раз, когда показывают.", "en": "An American boxer comes back to the village where his mother was born, falls for red-haired Mary Kate, and spends half the film fighting her brother. It was shot in Cong, an hour from here, and the railway station scenes in our own county, at Ballyglunin. There's a statue of John Wayne and Maureen O'Hara in Cong now. We laugh at it, and watch it every time it's on."},
+        "why": {"ru": "Голливудская Ирландия с зелёными холмами, какой никогда не было, — но мы её любим. Форд получил за фильм «Оскар», а Конг с тех пор живёт этим фильмом.", "en": "Hollywood's green-hilled Ireland that never existed, and we love it anyway. Ford won the Oscar for it, and Cong has lived off it ever since."},
+        "query": "The Quiet Man 1952",
+        "sticker": "Quiet Man"
+      },
+      "record": {
+        "title": {"ru": "Galway Girl", "en": "Galway Girl"},
+        "orig": "Galway Girl",
+        "by": {"ru": "Стив Эрл и Шэрон Шэннон", "en": "Steve Earle with Sharon Shannon"},
+        "year": "2000",
+        "kind": "song",
+        "note": {"ru": "«Голуэйских девчонок» две. Ту, что у Эда Ширана, — пусть себе будет. А настоящая — у американца Стива Эрла, он записал её с Шэрон Шэннон на аккордеоне. Парень гуляет по Лонг-Уок, это за рекой, прямо напротив моих окон, и встречает девушку с чёрными волосами и голубыми глазами. И погода там — «a fine soft day». Под неё пляшут на всех свадьбах.", "en": "There are two Galway Girls. Ed Sheeran's, fine, let him have it. The real one is the American Steve Earle's, recorded with Sharon Shannon on accordion. A fella strolls along the Long Walk, just across the river from my windows, and meets a girl with black hair and blue eyes. And the weather's “a fine soft day”. Every wedding dances to it."},
+        "query": "Steve Earle Galway Girl",
+        "sticker": "Galway Girl"
+      },
+      "books": {
+        "title": {"ru": "Смерть натуралиста", "en": "Death of a Naturalist"},
+        "orig": "Death of a Naturalist",
+        "by": {"ru": "Шеймас Хини, стихи", "en": "Seamus Heaney, poems"},
+        "year": "1966",
+        "note": {"ru": "Первый большой сборник нашего нобелевского лауреата. Открывается стихотворением «Копая»: отец копает картошку, дед резал торф, а у сына в руке только перо — «им я и буду копать». Хини проходят в школе, и это тот редкий случай, когда школьники не против. Стихи короткие — читай по одному, пока остывает чай.", "en": "The first big collection from our Nobel man. It opens with “Digging”: his father digging potatoes, his grandfather cutting turf, and the son with only a pen in his hand, “I'll dig with it.” Heaney's on the school course, and for once the pupils don't mind. They're short poems; read one while your tea cools."},
+        "sticker": "Heaney"
+      },
+      "fact": {
+        "ru": "По Конституции ирландский — первый государственный язык. Дома на нём говорят немногие, но под Голуэем, в Коннемаре, — самый большой ирландскоязычный край, гэлтахт. Оттуда же, из коннемарской деревни, вещает телеканал на ирландском, TG4.",
+        "en": "Under the Constitution, Irish is the first official language. Few speak it at home, but Connemara, just outside Galway, is the biggest Irish-speaking area, the Gaeltacht. The Irish-language TV channel, TG4, broadcasts from a Connemara village."
+      },
+      "phrase": {
+        "say": "A soft day",
+        "latin": "",
+        "text": {
+          "ru": "«Мягкий денёк»: моросит, туман, ветра нет. Это похвала погоде! Скажешь соседке «soft day, thank God» — она ответит «it is, it is». Таких дней у нас, честно говоря, почти все.",
+          "en": "Drizzle, mist, no wind. It's a compliment to the weather! Say “soft day, thank God” to a neighbour and she'll say “it is, it is”. To be honest, most of our days are soft."
+        }
+      },
+      "rule": {
+        "ru": "Цветущий боярышник в дом не носи — он принадлежит феям. И одинокий куст боярышника в поле не трогай: в графстве Клэр однажды даже трассу отодвинули, чтобы его не рубить.",
+        "en": "Never bring hawthorn blossom into the house; it belongs to the fairies. And leave a lone hawthorn in a field alone: in County Clare they once moved a whole road rather than cut one down."
+      },
+      "letter": {
+        "ru": "Ещё одно признание, и хватит. Брид зовёт меня в Бостон пятьдесят лет. А я ни разу в жизни не летала. Ни разу! Весь Голуэй объехала на велосипеде, а в самолёт не садилась: то работа, то скрипка, то просто страшно. В этот раз Брид сама купила мне билет и сказала: не прилетишь — приеду и увезу. Пока ты это читаешь, я, наверное, уже у неё. Или сижу в аэропорту Шаннона и вру ей, что рейс отменили.",
+        "en": "One more confession and that's the last. Bríd has been asking me over to Boston for fifty years. And I've never flown. Never once! I've cycled every road in Galway, but I never got on a plane: there was work, there was the fiddle, and I was simply afraid. This time Bríd bought the ticket herself and said if I didn't come she'd fly over and fetch me. By the time you read this I'm probably there. Or I'm sitting in Shannon airport telling her the flight was cancelled."
+      }
+    },
+    {
+      "kitchen": {
+        "title": {"ru": "Бармбрак", "en": "Barmbrack"},
+        "orig": "Barmbrack",
+        "note": {"ru": "Хэллоуинский кекс — если ты у нас в конце октября, самое время. С вечера залей сухофрукты крепким холодным чаем. Утром добавь муку, яйцо, сахар, пряности — и в форму. Внутрь положи колечко, завёрнутое в пергамент: кому достанется, тот в этом году женится. Мне доставалось трижды, и, как видишь… Ломти мажь маслом, толсто.", "en": "The Halloween loaf, and if you're here at the end of October, now's the time. The night before, soak the fruit in strong cold tea. In the morning add flour, egg, sugar and spice, and into the tin. Wrap a little ring in baking paper and push it in: whoever gets it will be married within the year. I got it three times, and as you can see... Butter the slices, thickly."},
+        "ingr": {
+          "ru": ["изюм и султанины — 375 г", "крепкий холодный чай — 300 мл", "тёмный сахар — 150 г", "мука — 250 г", "разрыхлитель — 1 ч. л.", "яйцо — 1 шт.", "смесь пряностей — 1 ч. л.", "колечко в пергаменте"],
+          "en": ["375 g raisins and sultanas", "300 ml strong cold tea", "150 g dark brown sugar", "250 g plain flour", "1 tsp baking powder", "1 egg", "1 tsp mixed spice", "a ring wrapped in baking paper"]
+        },
+        "swaps": {
+          "ru": [["mixed spice", "по щепотке корицы, мускатного ореха и гвоздики"], ["султанины", "любой светлый изюм"]],
+          "en": [["mixed spice", "a pinch each of cinnamon, nutmeg and cloves"], ["sultanas", "any golden raisins"]]
+        },
+        "sticker": "Barmbrack"
+      },
+      "tv": {
+        "title": {"ru": "Банши Инишерина", "en": "The Banshees of Inisherin"},
+        "orig": "The Banshees of Inisherin",
+        "by": {"ru": "Мартин Макдона", "en": "Martin McDonagh"},
+        "year": "2022",
+        "note": {"ru": "Один друг ни с того ни с сего говорит другому: всё, больше с тобой не разговариваю. И начинается война. Смешно и жутковато — как бывает только на острове, где все друг у друга на виду. Снимали на Инишморе, нашем Аранском острове: паром из Россавила — и ты там. Ослица Дженни, по-моему, лучшая актриса года.", "en": "One friend tells another, out of nowhere, that he's not speaking to him any more. And so the war begins. Funny and a bit eerie, the way only an island can be, where everyone sees everything. Shot on Inis Mór, our own Aran island: the ferry from Rossaveal and you're there. Jenny the donkey was the best actress of the year, if you ask me."},
+        "why": {"ru": "Самый громкий ирландский фильм последних лет: девять номинаций на «Оскар», Колин Фаррелл и Брендан Глисон — наши. И каждый узнал в нём своего соседа.", "en": "The biggest Irish film in years: nine Oscar nominations, and Colin Farrell and Brendan Gleeson are ours. Everyone recognised a neighbour in it."},
+        "query": "The Banshees of Inisherin",
+        "sticker": "Inisherin"
+      },
+      "record": {
+        "title": {"ru": "Hozier", "en": "Hozier"},
+        "orig": "Hozier",
+        "by": {"ru": "Хозиер", "en": "Hozier"},
+        "year": "2014",
+        "kind": "album",
+        "note": {"ru": "Это мне прислала из Бостона Брид с запиской: «У вас там свой гений, а ты и не знаешь». Он из Брея, под Дублином, голос как у старого блюзмена, а сам совсем мальчишка. Я поставила и полчаса слушала стоя у плиты — лук сгорел. Скрипки там нет, но я ему прощаю.", "en": "Bríd sent me this from Boston with a note: “You've a genius of your own over there and you don't even know it.” He's from Bray, south of Dublin, a voice like an old bluesman and only a young lad. I put it on and stood at the cooker listening for half an hour; the onions burnt. No fiddle on it, but I forgive him."},
+        "query": "Hozier 2014 album",
+        "sticker": "Hozier"
+      },
+      "books": {
+        "title": {"ru": "Нормальные люди", "en": "Normal People"},
+        "orig": "Normal People",
+        "by": {"ru": "Салли Руни", "en": "Sally Rooney"},
+        "year": "2018",
+        "note": {"ru": "Мой книжный клуб в библиотеке спорил о ней три вечера. Коннелл и Марианна из городка в Слайго, потом учатся в Тринити и всё никак не скажут друг другу главного. Руни из Каслбара, это Мейо, по соседству. Сначала я ворчала: кавычек нет, где кто говорит — не поймёшь. А потом дочитала ночью и в четыре утра пошла ставить чайник.", "en": "My library book club argued about it for three evenings. Connell and Marianne from a small town in Sligo, then Trinity, and they can never quite say the important thing to each other. Rooney's from Castlebar, in Mayo, next door. At first I was giving out: no quotation marks, you can't tell who's talking. Then I finished it in one night and was putting the kettle on at four in the morning."},
+        "sticker": "Normal People"
+      },
+      "fact": {
+        "ru": "Ирландцы пьют чая на душу населения больше почти всех в мире — и больше англичан. Чайник у нас ставят, когда кто-то пришёл, ушёл, родился, женился и просто когда пошёл дождь.",
+        "en": "The Irish drink more tea per head than nearly anyone in the world, the English included. The kettle goes on when someone arrives, leaves, is born, gets married, or when it starts to rain."
+      },
+      "phrase": {
+        "say": "Slán abhaile",
+        "latin": "",
+        "text": {
+          "ru": "«Счастливо добраться домой». Читается примерно «слан а-ВАЛ-е». Так прощаются с тем, кто уходит в дорогу, и в пабе в конце вечера. Если тебе это скажут — значит, приняли за своего.",
+          "en": "“Safe home.” Say it roughly “slawn a-WAL-ya”. It's said to anyone setting off, and in the pub at the end of the night. If someone says it to you, you've been taken in as one of our own."
+        }
+      },
+      "rule": {
+        "ru": "На сессии в пабе не хлопай посреди мелодии и не садись в круг музыкантов, пока не позовут. Мелодии играют наборами, по две-три подряд, — хлопают в конце.",
+        "en": "At a session, don't clap in the middle of a tune and don't sit in the musicians' circle until you're asked. Tunes come in sets of two or three; you clap at the end of the set."
+      },
+      "letter": {
+        "ru": "Ну вот и неделя прошла. Спасибо, что поливал герань и не трогал скрипку — я ведь узнаю, если трогал. На буфете стоит жестяная коробка из-под печенья. Положи туда что-нибудь своё: рецепт, название фильма, слова песни, которую поют у вас на свадьбах. Я вернусь, заварю чай покрепче и прочитаю. Ключ — под коврик, откуда взял. Slán abhaile, и приезжай ещё: в следующий раз я буду дома, и мы сыграем.",
+        "en": "Well, that's the week. Thank you for watering the geraniums and not touching the fiddle; I'll know if you did. There's a biscuit tin on the dresser. Put something of your own in it: a recipe, the name of a film, the words of a song you sing at weddings at home. I'll come back, make a strong pot of tea and read it. Key back under the mat where you found it. Slán abhaile, and come again: next time I'll be home and we'll play a tune."
+      }
+    }
+  ]
+}

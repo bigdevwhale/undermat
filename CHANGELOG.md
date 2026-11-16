@@ -6,6 +6,16 @@ line "<!-- tg", then 2-4 short lines in Russian for users (what is new, what is 
 then close it like any HTML comment. The release notes carry it, and the chat bot posts those lines.
 -->
 
+## [1.0.1] - 2026-11-16
+
+### Fixed
+- A sudden power-off (a flat battery, a frozen phone) could leave the save empty, losing the current stay, past stays and stickers. The save is now forced to the disk before it replaces the old one, the previous save is kept beside it as a spare, and a damaged save falls back to that spare instead of a fresh start.
+
+<!-- tg
+Поправили сохранение: если телефон внезапно выключится (сел аккумулятор, завис), неделя в квартире и наклейки больше не пропадут.
+Всё сохраняется на диск надёжно, а рядом хранится прошлая версия на всякий случай.
+-->
+
 ## [1.0.0] - 2026-10-30
 
 ### Added

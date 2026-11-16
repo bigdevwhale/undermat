@@ -9,6 +9,7 @@ import kotlinx.coroutines.withContext
 import org.json.JSONArray
 import org.json.JSONObject
 import java.io.File
+import java.io.FileOutputStream
 
 /** What the guest left the host on the last day: something of their own country, and a note. */
 data class Gift(val dish: String = "", val film: String = "", val song: String = "", val note: String = "") {
@@ -49,7 +50,10 @@ data class Save(val stay: Stay? = null, val past: List<Stay> = emptyList(), val 
     fun visits(host: String) = past.count { it.host == host }
 }
 
-/** The whole state of the app in one small JSON file, read once and written after every change. */
+/**
+ * The whole state of the app in one small JSON file, read once and written after every change. Each file is written aside, forced to the disk, then renamed over the old one, which stays as a spare: a sudden
+ * power-off leaves the old version or the new one, never an empty file.
+ */
 class Store(private val file: File) {
     private val lock = Mutex()
     private val _state = MutableStateFlow<Save?>(null)
@@ -64,9 +68,9 @@ class Store(private val file: File) {
             val s = change(_state.value ?: read())
             _state.value = s
             withContext(Dispatchers.IO) {
-                val tmp = File(file.parentFile, file.name + ".tmp")
-                tmp.writeText(encode(s).toString())
-                if (!tmp.renameTo(file)) { file.delete(); tmp.renameTo(file) }
+                FileOutputStream(tmp).use { out -> out.write(encode(s).toString().toByteArray()); out.flush(); out.fd.sync() }
+                if (file.exists()) file.renameTo(spare)
+                tmp.renameTo(file)   // if this fails, read() still finds the spare or the synced .tmp
             }
         }
     }
@@ -105,7 +109,12 @@ class Store(private val file: File) {
         else s.copy(stay = st.copy(guests = st.guests + i), stickers = s.stickers + Sticker(host, label, "guest", System.currentTimeMillis()))
     }
 
-    private fun read(): Save = runCatching { decode(JSONObject(file.readText())) }.getOrElse { Save() }
+    private val tmp get() = File(file.parentFile, file.name + ".tmp")
+    private val spare get() = File(file.parentFile, file.name + ".bak")
+
+    /** The file; if it is missing mid-write, the synced new copy beside it; else the previous version. */
+    private fun read(): Save = sequenceOf(file, tmp, spare)
+        .firstNotNullOfOrNull { f -> runCatching { decode(JSONObject(f.readText())) }.getOrNull() } ?: Save()
 
     companion object {
         fun encode(s: Save): JSONObject = JSONObject().apply {
